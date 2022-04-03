@@ -1,4 +1,4 @@
 --- # ledger for distributed vitamins
 # format:
-#   timestamp: hash destination
-1648997530682: QmRnjnqaaNENxZQ1J7LrrcjoMkXGhkLopd6P73BbGr72XB uslenka@yandex.ru
+#   timestamp: hash lot-id destination
+1648997530682: QmRnjnqaaNENxZQ1J7LrrcjoMkXGhkLopd6P73BbGr72XB S18438629-024 uslenka@yandex.ru
