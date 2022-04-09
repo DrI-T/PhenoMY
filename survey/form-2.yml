@@ -1,0 +1,983 @@
+---
+A001: 04/02/2022 13:13:13
+A002: 04/02/2022 13:19:59
+A003: 04/02/2022 19:55:29
+A004: 04/02/2022 22:12:42
+A005: 04/02/2022 23:08:35
+A006: 04/02/2022 23:49:10
+A007: 04/03/2022 00:12:22
+A008: 04/03/2022 03:56:35
+A009: 04/03/2022 10:48:30
+A010: 04/03/2022 17:18:01
+A011: 04/03/2022 22:27:32
+A012: 04/03/2022 23:49:14
+A013: 04/04/2022 12:36:57
+A014: 04/04/2022 12:46:52
+A015: 04/04/2022 15:53:23
+A016: 04/05/2022 00:22:59
+A017: 04/05/2022 01:21:07
+A018: 04/05/2022 02:08:11
+A019: 04/05/2022 08:29:41
+A020: 04/05/2022 18:55:00
+A021: 04/06/2022 11:35:28
+A022: 04/06/2022 12:02:38
+A023: 04/06/2022 14:30:55
+A024: 04/06/2022 16:25:58
+A025: 04/06/2022 23:19:38
+A026: 04/07/2022 11:57:34
+B001: Prepare myself for the upcoming health challenge, I believe it defines your
+  quality of life at later stage
+B002: Prepare myself for the upcoming health challenge
+B003: Maintain status quo
+B004: Prepare my body for pregnancy
+B005: Support myself in an ongoing transformation journey
+B006: Support myself in an ongoing transformation journey
+B007: Get myself out of a significant health issue
+B008: Support myself in an ongoing transformation journey
+B009: Support myself in an ongoing transformation journey
+B010: Maintain status quo
+B011: Support myself in an ongoing transformation journey
+B012: Maintain status quo
+B013: Support myself in an ongoing transformation journey
+B014: Support myself in an ongoing transformation journey, Get myself out of a significant
+  health issue
+B015: Get myself out of a significant health issue
+B016: Support myself in an ongoing transformation journey
+B017: Transformation journey is to strong - support myself in improving my health
+  journey
+B018: Maintain status quo, Support myself in an ongoing transformation journey
+B019: Support myself in an ongoing transformation journey
+B020: Maintain status quo
+B021: Support myself in an ongoing transformation journey, Prepare myself for the
+  upcoming health challenge
+B022: Support myself in an ongoing transformation journey, Prepare myself for the
+  upcoming health challenge
+B023: Maintain status quo
+B024: Support myself in an ongoing transformation journey
+B025: Support myself in an ongoing transformation journey, Prepare myself for the
+  upcoming health challenge
+B026: Prepare myself for the upcoming health challenge
+BA001: Clear everyday plan easy to follow, Fast results addressing current issues,
+  Preventive plan, Advice on healthy recipes, really tuned to address my symptoms
+BA002: Advice on healthy recipes, Genetic testing
+BA003: Fast results addressing current issues
+BA004: Clear everyday plan easy to follow, Fast results addressing current issues,
+  Preventive plan, Focus on optimal weight, Advice on healthy recipes
+BA005: Clear everyday plan easy to follow, Focus on optimal weight, Advice on healthy
+  recipes
+BA006: Fast results addressing current issues, Focus on optimal weight
+BA007: Clear everyday plan easy to follow, Advice on healthy recipes
+BA008: Fast results addressing current issues
+BA009: Clear everyday plan easy to follow, Advice on healthy recipes
+BA010: Clear everyday plan easy to follow
+BA011: Clear everyday plan easy to follow, Fast results addressing current issues
+BA012: Fast results addressing current issues
+BA013: Clear everyday plan easy to follow, Fast results addressing current issues,
+  Preventive plan, Focus on optimal weight
+BA014: Fast results addressing current issues, Preventive plan
+BA015: Clear everyday plan easy to follow, Fast results addressing current issues,
+  Preventive plan, Focus on optimal weight, Advice on healthy recipes
+BA016: Focus on optimal weight
+BA017: Preventive plan, Focus on optimal weight, Advice on healthy recipes
+BA018: Preventive plan
+BA019: Clear everyday plan easy to follow, Fast results addressing current issues
+BA020: Advice on healthy recipes
+BA021: Clear everyday plan easy to follow
+BA022: Clear everyday plan easy to follow, Fast results addressing current issues,
+  Focus on optimal weight
+BA023: Preventive plan
+BA024: Fast results addressing current issues
+BA025: Clear everyday plan easy to follow, Preventive plan
+BA026: Clear everyday plan easy to follow, Preventive plan, Focus on optimal weight
+BB001: less than 500 USD
+BB002: Over 1000 USD
+BB003: less than 500 USD
+BB004: less than 500 USD
+BB005: less than 500 USD
+BB006: 500 USD - 750 USD
+BB007: less than 500 USD
+BB008: less than 500 USD
+BB009: less than 500 USD
+BB010: less than 500 USD
+BB011: less than 500 USD
+BB012: less than 500 USD
+BB013: less than 500 USD
+BB014: 750 USD - 1000 USD
+BB015: less than 500 USD
+BB016: 500 USD - 750 USD
+BB017: less than 500 USD
+BB018: less than 500 USD
+BB019: less than 500 USD
+BB020: less than 500 USD
+BB021: 500 USD - 750 USD
+BB022: less than 500 USD
+BB023: 750 USD - 1000 USD
+BB024: less than 500 USD
+BB025: 500 USD - 750 USD
+BB026: less than 500 USD
+BC001: 5-10 USD/month
+BC002: ''
+BC003: Less than 5 USD/month
+BC004: Less than 5 USD/month
+BC005: 5-10 USD/month
+BC006: 5-10 USD/month
+BC007: Less than 5 USD/month
+BC008: 5-10 USD/month
+BC009: 5-10 USD/month
+BC010: 10-15 USD/month
+BC011: Less than 5 USD/month
+BC012: 5-10 USD/month
+BC013: 5-10 USD/month
+BC014: 5-10 USD/month
+BC015: Less than 5 USD/month
+BC016: 15-20 USD/month
+BC017: 5-10 USD/month
+BC018: 5-10 USD/month
+BC019: 5-10 USD/month
+BC020: Less than 5 USD/month
+BC021: 5-10 USD/month
+BC022: Less than 5 USD/month
+BC023: 5-10 USD/month
+BC024: Less than 5 USD/month
+BC025: ''
+BC026: Less than 5 USD/month
+BD001: '1969'
+BD002: '1900'
+BD003: '1973'
+BD004: '1976'
+BD005: ''
+BD006: '1973'
+BD007: '1979'
+BD008: '1969'
+BD009: '1974'
+BD010: '1977'
+BD011: '1981'
+BD012: '1978'
+BD013: '1984'
+BD014: '1969'
+BD015: '1955'
+BD016: '1965'
+BD017: '1969'
+BD018: '1966'
+BD019: '1979'
+BD020: '1979'
+BD021: '1980'
+BD022: '1981'
+BD023: '1969'
+BD024: '1976'
+BD025: '1979'
+BD026: '1958'
+BE001: michel@binkmail.com
+BE002: colleen.fogarty.draper@gmail.com
+BE003: ''
+BE004: ''
+BE005: est_coutinho@yahoo.com
+BE006: Lmalleval@gmail.com
+BE007: ''
+BE008: Tpenza@hotmail.com
+BE009: klucia@gmail.com
+BE010: ''
+BE011: ''
+BE012: ''
+BE013: madhavigk@gmail.com
+BE014: janetwertli@me.com
+BE015: bobbibnh@comcast.net
+BE016: Thillier@verizon.net
+BE017: Mccormack_christine@hotmail.com
+BE018: 'Felicia@prospeed.net '
+BE019: nairimr@hotmail.com
+BE020: ''
+BE021: ''
+BE022: ''
+BE023: ''
+BE024: ''
+BE025: ''
+BE026: jan.hardie@libero.it
+BF001: You're welcomed
+BF002: Bye
+BF003: ''
+BF004: ''
+BF005: ''
+BF006: 'Good luck and looking forward to the app! '
+BF007: ''
+BF008: 'Thanks '
+BF009: ''
+BF010: ''
+BF011: ''
+BF012: ''
+BF013: ''
+BF014: ''
+BF015: Thank you!
+BF016: ''
+BF017: Welcome
+BF018: 'If appropriate ideas on when to eat, portions, ideas for healthy eating that
+  may work for a family so you don''t have to make different meals for everyone '
+BF019: You’re welcomed
+BF020: Thank you!
+BF021: ''
+BF022: ''
+BF023: ''
+BF024: ''
+BF025: ''
+BF026: ''
+BG001: ''
+BG002: ''
+BG003: '0'
+BG004: '0'
+BG005: '0'
+BG006: '0'
+BG007: '0'
+BG008: '0'
+BG009: '0'
+BG010: '0'
+BG011: '0'
+BG012: '0'
+BG013: '0'
+BG014: '0'
+BG015: '0'
+BG016: '0'
+BG017: '0'
+BG018: '0'
+BG019: '0'
+BG020: '0'
+BG021: '0'
+BG022: '0'
+BG023: '0'
+BG024: '0'
+BG025: '0'
+BG026: '0'
+BH001: ''
+BH002: ''
+BH003: ''
+BH004: ''
+BH005: ''
+BH006: ''
+BH007: ''
+BH008: ''
+BH009: ''
+BH010: ''
+BH011: ''
+BH012: ''
+BH013: ''
+BH014: ''
+BH015: ''
+BH016: USA
+BH017: US
+BH018: US
+BH019: United States
+BH020: Switzerland
+BH021: Schweiz
+BH022: Switzerland
+BH023: switzerland
+BH024: switzerland
+BH025: Switzerland
+BH026: Italy
+BI001: ''
+BI002: ''
+BI003: ''
+BI004: ''
+BI005: ''
+BI006: ''
+BI007: ''
+BI008: ''
+BI009: ''
+BI010: ''
+BI011: ''
+BI012: ''
+BI013: ''
+BI014: ''
+BI015: ''
+BI016: ''
+BI017: ''
+BI018: ''
+BI019: ''
+BI020: ''
+BI021: ''
+BI022: ''
+BI023: ''
+BI024: ''
+BI025: ''
+BI026: ''
+C001: Bladder pain, frequent urination
+C002: ''
+C003: Night sweats, Sleep difficulties, Low energy, fatigue
+C004: Headaches
+C005: Bloating, Sleep difficulties, Low energy, fatigue
+C006: Mood swings, Headaches, Brain fog, Sleep difficulties, Joint pain, Low energy,
+  fatigue, Weight gain, Dry skin
+C007: Mood swings, Sleep difficulties, Low energy, fatigue, Dry skin
+C008: Night sweats, Hot flashes, Mood swings, Anxiety and/or panic attacks, Low energy,
+  fatigue
+C009: Bloating, Body odor, Weight gain, Incontinence
+C010: Headaches, Sleep difficulties
+C011: Constipation, Menstrual cramps, Sleep difficulties
+C012: Mood swings, Headaches, Anxiety and/or panic attacks, Sleep difficulties, Low
+  energy, fatigue
+C013: Mood swings, Sleep difficulties, Joint pain, Low energy, fatigue, Frequent sickness
+  - colds, flu, etc., Loss of skin elasticity, sagging skin, Increased skin issues(semi-eczema,
+  combination skin from dry etc)
+C014: Bloating, Gas, Constipation
+C015: Gas, Constipation, Depression, Sleep difficulties, Joint pain
+C016: Gas, Anxiety and/or panic attacks, Sleep difficulties, Loss of skin elasticity,
+  sagging skin, Skin wrinkling
+C017: Sleep difficulties, Low energy, fatigue, Weight gain, Skin wrinkling
+C018: Brain fog, Low energy, fatigue, Loss of skin elasticity, sagging skin, Age spots,
+  melasma, Decreased memory
+C019: Mood swings, Weight gain, Skin wrinkling, Dry skin, Hair loss, thinning, change
+  in texture
+C020: Low energy, fatigue, Diarrhea during menstrual cycle
+C021: Sore breasts, Gas, Hot flashes
+C022: Bloating, Menstrual cramps, Brain fog, Sleep difficulties, Low energy, fatigue,
+  Decreased memory
+C023: Weight gain, Loss of skin elasticity, sagging skin, Skin wrinkling, Dry skin,
+  Vaginal dryness
+C024: Skin wrinkling, Age spots, melasma, Dry skin
+C025: Menstrual cramps, Mood swings, Headaches, Weight gain, Hair loss, thinning,
+  change in texture
+C026: Joint pain, Hair loss, thinning, change in texture
+D001: I was satisfied
+D002: ''
+D003: ''
+D004: I was satisfied
+D005: ''
+D006: I was not satisfied
+D007: ''
+D008: I was not satisfied
+D009: ''
+D010: ''
+D011: ''
+D012: ''
+D013: I was not satisfied
+D014: ''
+D015: ''
+D016: I was not satisfied
+D017: I was satisfied
+D018: ''
+D019: ''
+D020: I was satisfied
+D021: I was not satisfied
+D022: ''
+D023: I was not satisfied
+D024: I was satisfied
+D025: ''
+D026: I was satisfied
+E001: ''
+E002: ''
+E003: ''
+E004: ''
+E005: I was not satisfied
+E006: I was not satisfied
+E007: ''
+E008: ''
+E009: ''
+E010: ''
+E011: I was satisfied, I was not satisfied
+E012: ''
+E013: ''
+E014: ''
+E015: ''
+E016: I was not satisfied
+E017: I was satisfied
+E018: ''
+E019: ''
+E020: I was satisfied
+E021: I was not satisfied
+E022: ''
+E023: ''
+E024: ''
+E025: ''
+E026: I was satisfied
+F001: ''
+F002: ''
+F003: ''
+F004: ''
+F005: I was not satisfied
+F006: I was not satisfied
+F007: ''
+F008: ''
+F009: ''
+F010: ''
+F011: ''
+F012: ''
+F013: ''
+F014: I was satisfied
+F015: I was not satisfied
+F016: ''
+F017: ''
+F018: ''
+F019: ''
+F020: ''
+F021: I was not satisfied
+F022: ''
+F023: ''
+F024: ''
+F025: ''
+F026: ''
+G001: ''
+G002: ''
+G003: ''
+G004: ''
+G005: ''
+G006: ''
+G007: ''
+G008: ''
+G009: ''
+G010: ''
+G011: ''
+G012: ''
+G013: ''
+G014: ''
+G015: ''
+G016: ''
+G017: ''
+G018: ''
+G019: I was satisfied
+G020: ''
+G021: I was not satisfied
+G022: ''
+G023: I was satisfied, I was not satisfied
+G024: ''
+G025: ''
+G026: ''
+H001: ''
+H002: ''
+H003: ''
+H004: ''
+H005: ''
+H006: ''
+H007: ''
+H008: ''
+H009: ''
+H010: ''
+H011: ''
+H012: ''
+H013: ''
+H014: ''
+H015: ''
+H016: I was not satisfied
+H017: ''
+H018: ''
+H019: ''
+H020: ''
+H021: ''
+H022: ''
+H023: ''
+H024: ''
+H025: ''
+H026: ''
+I001: ''
+I002: ''
+I003: ''
+I004: ''
+I005: ''
+I006: ''
+I007: ''
+I008: ''
+I009: ''
+I010: ''
+I011: ''
+I012: ''
+I013: ''
+I014: ''
+I015: I was satisfied
+I016: ''
+I017: ''
+I018: ''
+I019: ''
+I020: ''
+I021: ''
+I022: ''
+I023: ''
+I024: ''
+I025: ''
+I026: ''
+J001: ''
+J002: ''
+J003: ''
+J004: ''
+J005: ''
+J006: I was satisfied
+J007: ''
+J008: ''
+J009: ''
+J010: ''
+J011: ''
+J012: ''
+J013: ''
+J014: I was satisfied
+J015: ''
+J016: I was not satisfied
+J017: ''
+J018: ''
+J019: I was satisfied
+J020: I was satisfied
+J021: ''
+J022: ''
+J023: ''
+J024: ''
+J025: ''
+J026: ''
+K001: ''
+K002: ''
+K003: I was satisfied
+K004: ''
+K005: ''
+K006: I was satisfied
+K007: ''
+K008: ''
+K009: ''
+K010: I was satisfied
+K011: ''
+K012: ''
+K013: I was satisfied
+K014: ''
+K015: ''
+K016: ''
+K017: I was satisfied
+K018: I was satisfied
+K019: I was satisfied
+K020: ''
+K021: ''
+K022: ''
+K023: ''
+K024: ''
+K025: ''
+K026: I was satisfied
+L001: I was not satisfied
+L002: ''
+L003: ''
+L004: ''
+L005: ''
+L006: ''
+L007: I was satisfied, I was not satisfied
+L008: I was not satisfied
+L009: I was not satisfied
+L010: ''
+L011: ''
+L012: I was satisfied
+L013: ''
+L014: ''
+L015: ''
+L016: ''
+L017: ''
+L018: ''
+L019: ''
+L020: ''
+L021: ''
+L022: I was not satisfied
+L023: ''
+L024: ''
+L025: I was not satisfied
+L026: ''
+M001: ask grand ma
+M002: ''
+M003: I only listen to my body and follow its needs, I am aware of general healthy
+  ways and try to stick to them, I consulted a nutritionist and have a personalized
+  plan to follow
+M004: I only listen to my body and follow its needs
+M005: I am aware of general healthy ways and try to stick to them
+M006: I am aware of general healthy ways and try to stick to them
+M007: I am aware of general healthy ways and try to stick to them
+M008: I am aware of general healthy ways and try to stick to them
+M009: I am aware of general healthy ways and try to stick to them
+M010: I only listen to my body and follow its needs
+M011: I am aware of general healthy ways and try to stick to them
+M012: I only listen to my body and follow its needs
+M013: I only listen to my body and follow its needs, I am aware of general healthy
+  ways and try to stick to them
+M014: I consulted a nutritionist and have a personalized plan to follow, I follow
+  advice from my doctors
+M015: I am aware of general healthy ways and try to stick to them, I follow advice
+  from my doctors, I ask for advice when in the pharmacy
+M016: I only listen to my body and follow its needs
+M017: I am aware of general healthy ways and try to stick to them
+M018: I am aware of general healthy ways and try to stick to them
+M019: I am aware of general healthy ways and try to stick to them
+M020: I am aware of general healthy ways and try to stick to them
+M021: I only listen to my body and follow its needs
+M022: I only listen to my body and follow its needs, I am aware of general healthy
+  ways and try to stick to them, I do as I can with a busy schedule…
+M023: I consulted a nutritionist and have a personalized plan to follow
+M024: I only listen to my body and follow its needs
+M025: I am aware of general healthy ways and try to stick to them
+M026: I am aware of general healthy ways and try to stick to them
+N001: Yes, but I have not noticed this for myself yet
+N002: ''
+N003: Yes, I have felt the effect on myself
+N004: Yes, but I have not noticed this for myself yet
+N005: I don't know, I need to read more about it
+N006: Yes, I have felt the effect on myself
+N007: Yes, but I have not noticed this for myself yet
+N008: I don't know, I need to read more about it
+N009: I don't know, I need to read more about it
+N010: I don't know, I need to read more about it
+N011: I don't know, I need to read more about it
+N012: I don't know, I need to read more about it
+N013: Yes, but I have not noticed this for myself yet
+N014: Yes, but I have not noticed this for myself yet
+N015: Yes, but I have not noticed this for myself yet
+N016: Yes, I have felt the effect on myself
+N017: I don't know, I need to read more about it
+N018: Yes, I have felt the effect on myself
+N019: Yes, but I have not noticed this for myself yet
+N020: I don't know, I need to read more about it
+N021: I don't believe it
+N022: I don't know, I need to read more about it
+N023: I don't know, I need to read more about it
+N024: Yes, but I have not noticed this for myself yet
+N025: I don't know, I need to read more about it
+N026: I don't know, I need to read more about it
+O001: Not sure, I would like to learn more.
+O002: Not sure, I would like to learn more.
+O003: Yes
+O004: Not sure, I would like to learn more.
+O005: Yes
+O006: Yes
+O007: Not sure, I would like to learn more.
+O008: Yes
+O009: Not sure, I would like to learn more.
+O010: Yes
+O011: Yes
+O012: Yes
+O013: Yes
+O014: No
+O015: Not sure, I would like to learn more.
+O016: Yes
+O017: Yes
+O018: Not sure, I would like to learn more.
+O019: Not sure, I would like to learn more.
+O020: Not sure, I would like to learn more.
+O021: Yes
+O022: Yes
+O023: Yes
+O024: Not sure, I would like to learn more.
+O025: Not sure, I would like to learn more.
+O026: Yes
+P001: General recommendations on how to address symptoms of menopause with the help
+  of nutrition, Connection with people who are at the same stage in their lives or
+  have just been through it, Personalized recommendations without going to any specialists,
+  Network of certified trusted nutritionists for online consultation
+P002: ''
+P003: General recommendations on how to address symptoms of menopause with the help
+  of nutrition, Personalized recommendations without going to any specialists
+P004: All of the above
+P005: General recommendations on how to address symptoms of menopause with the help
+  of nutrition, Personalized recommendations without going to any specialists, Network
+  of certified trusted nutritionists for online consultation
+P006: General recommendations on how to address symptoms of menopause with the help
+  of nutrition, Connection with people who are at the same stage in their lives or
+  have just been through it, Personalized recommendations without going to any specialists,
+  Network of certified trusted nutritionists for online consultation, One- click purchase
+  of food supplements of trusted brands, All of the above
+P007: General recommendations on how to address symptoms of menopause with the help
+  of nutrition, Personalized recommendations without going to any specialists, One-
+  click purchase of food supplements of trusted brands
+P008: General recommendations on how to address symptoms of menopause with the help
+  of nutrition, Personalized recommendations without going to any specialists, Network
+  of certified trusted nutritionists for online consultation, One- click purchase
+  of food supplements of trusted brands
+P009: General recommendations on how to address symptoms of menopause with the help
+  of nutrition, Personalized recommendations without going to any specialists
+P010: General recommendations on how to address symptoms of menopause with the help
+  of nutrition, Network of certified trusted nutritionists for online consultation
+P011: General recommendations on how to address symptoms of menopause with the help
+  of nutrition, Network of certified trusted nutritionists for online consultation,
+  All of the above
+P012: General recommendations on how to address symptoms of menopause with the help
+  of nutrition, Connection with people who are at the same stage in their lives or
+  have just been through it, Personalized recommendations without going to any specialists,
+  Network of certified trusted nutritionists for online consultation
+P013: All of the above
+P014: General recommendations on how to address symptoms of menopause with the help
+  of nutrition, Network of certified trusted nutritionists for online consultation
+P015: General recommendations on how to address symptoms of menopause with the help
+  of nutrition, Connection with people who are at the same stage in their lives or
+  have just been through it, Personalized recommendations without going to any specialists,
+  Network of certified trusted nutritionists for online consultation
+P016: General recommendations on how to address symptoms of menopause with the help
+  of nutrition, Connection with people who are at the same stage in their lives or
+  have just been through it, Personalized recommendations without going to any specialists,
+  Network of certified trusted nutritionists for online consultation, One- click purchase
+  of food supplements of trusted brands, All of the above
+P017: General recommendations on how to address symptoms of menopause with the help
+  of nutrition
+P018: All of the above
+P019: General recommendations on how to address symptoms of menopause with the help
+  of nutrition, Personalized recommendations without going to any specialists
+P020: All of the above
+P021: General recommendations on how to address symptoms of menopause with the help
+  of nutrition, Personalized recommendations without going to any specialists, Network
+  of certified trusted nutritionists for online consultation, One- click purchase
+  of food supplements of trusted brands
+P022: General recommendations on how to address symptoms of menopause with the help
+  of nutrition, Personalized recommendations without going to any specialists
+P023: 'My dream app take a baseline input of my status (hormone levels etc ) + it
+  will measure my  biomarkers continuously  to  recommending - based on clinical evidence
+  : food intake , supplements, experts, access to network.  '
+P024: Personalized recommendations without going to any specialists
+P025: General recommendations on how to address symptoms of menopause with the help
+  of nutrition, Network of certified trusted nutritionists for online consultation
+P026: General recommendations on how to address symptoms of menopause with the help
+  of nutrition, Personalized recommendations without going to any specialists, Network
+  of certified trusted nutritionists for online consultation
+Q001: ''
+Q002: ''
+Q003: ''
+Q004: ''
+Q005: ''
+Q006: ''
+Q007: ''
+Q008: ''
+Q009: ''
+Q010: ''
+Q011: ''
+Q012: ''
+Q013: ''
+Q014: ''
+Q015: ''
+Q016: ''
+Q017: ''
+Q018: ''
+Q019: ''
+Q020: ''
+Q021: ''
+Q022: ''
+Q023: ''
+Q024: ''
+Q025: ''
+Q026: ''
+R001: ''
+R002: ''
+R003: ''
+R004: ''
+R005: ''
+R006: ''
+R007: ''
+R008: ''
+R009: ''
+R010: ''
+R011: ''
+R012: ''
+R013: ''
+R014: ''
+R015: ''
+R016: ''
+R017: ''
+R018: ''
+R019: ''
+R020: ''
+R021: ''
+R022: ''
+R023: ''
+R024: ''
+R025: ''
+R026: ''
+S001: ''
+S002: ''
+S003: ''
+S004: ''
+S005: ''
+S006: ''
+S007: ''
+S008: ''
+S009: ''
+S010: ''
+S011: ''
+S012: ''
+S013: ''
+S014: I had a full hysterectomy and have 'completed' menopause I don't have any symptoms
+  and take HRT
+S015: ''
+S016: ''
+S017: ''
+S018: ''
+S019: ''
+S020: ''
+S021: ''
+S022: ''
+S023: ''
+S024: ''
+S025: ''
+S026: ''
+T001: ''
+T002: ''
+T003: ''
+T004: ''
+T005: ''
+T006: ''
+T007: ''
+T008: ''
+T009: ''
+T010: ''
+T011: ''
+T012: ''
+T013: ''
+T014: Network of certified trusted nutritionists for online consultation
+T015: ''
+T016: ''
+T017: ''
+T018: ''
+T019: ''
+T020: ''
+T021: ''
+T022: ''
+T023: ''
+T024: ''
+T025: ''
+T026: ''
+U001: I don't own wearable
+U002: Apple watch (or alike)
+U003: Apple watch (or alike)
+U004: I don’t monitor
+U005: Health App tracker on i-phone (or alike)
+U006: Health App tracker on i-phone (or alike)
+U007: I don't like self-monitoring, prefer to go to a doctor
+U008: ''
+U009: Apple watch (or alike)
+U010: I don't like self-monitoring, prefer to go to a doctor
+U011: Apple watch (or alike)
+U012: I don't monitor
+U013: High body awareness
+U014: 'home BP and sugar monitor. '
+U015: Not monitoring anything
+U016: Other wellness apps
+U017: Apple watch (or alike)
+U018: I don't like self-monitoring, prefer to go to a doctor
+U019: Health App tracker on i-phone (or alike)
+U020: Other wellness apps
+U021: Health App tracker on i-phone (or alike)
+U022: I do not like self monitoring, and do not like going to doctor
+U023: I don't like self-monitoring, prefer to go to a doctor
+U024: Listen to my body
+U025: Health App tracker on i-phone (or alike)
+U026: Apple watch (or alike)
+V001: Ok to perform self-test
+V002: ''
+V003: Ok to perform self-test
+V004: not comfortable
+V005: Ok to perform self-test
+V006: Ok to perform self-test
+V007: Ok to perform self-test
+V008: Ok to perform self-test
+V009: Ok to perform self-test
+V010: Ok to perform self-test
+V011: Ok to perform self-test
+V012: Ok to perform self-test
+V013: not comfortable
+V014: Ok to perform self-test
+V015: Ok to perform self-test
+V016: Ok to perform self-test
+V017: Ok to perform self-test
+V018: Ok to perform self-test
+V019: Ok to perform self-test
+V020: Ok to perform self-test
+V021: Ok to perform self-test
+V022: Ok to perform self-test
+V023: Ok to perform self-test
+V024: Ok to perform self-test
+V025: Ok to perform self-test
+V026: Ok to perform self-test
+W001: Ok to perform self-test
+W002: ''
+W003: Ok to perform self-test
+W004: Ok to perform self-test
+W005: Ok to perform self-test
+W006: Ok to perform self-test
+W007: Ok to perform self-test
+W008: Ok to perform self-test
+W009: Ok to perform self-test
+W010: Ok to perform self-test
+W011: Ok to perform self-test
+W012: Ok to perform self-test
+W013: Ok to perform self-test
+W014: Ok to perform self-test
+W015: Ok to perform self-test
+W016: Ok to perform self-test
+W017: Ok to perform self-test
+W018: Ok to perform self-test
+W019: Ok to perform self-test
+W020: Ok to perform self-test
+W021: Ok to perform self-test
+W022: Ok to perform self-test
+W023: Ok to perform self-test
+W024: Ok to perform self-test
+W025: Ok to perform self-test
+W026: Ok to perform self-test
+X001: Ok to perform self-test
+X002: ''
+X003: Ok to perform self-test
+X004: Ok to perform self-test
+X005: Ok to perform self-test
+X006: Ok to perform self-test
+X007: Ok to perform self-test
+X008: Ok to perform self-test
+X009: Ok to perform self-test
+X010: Ok to perform self-test
+X011: Ok to perform self-test
+X012: Ok to perform self-test
+X013: Ok to perform self-test
+X014: not comfortable
+X015: Ok to perform self-test
+X016: Ok to perform self-test
+X017: Ok to perform self-test
+X018: Ok to perform self-test
+X019: Ok to perform self-test
+X020: Ok to perform self-test
+X021: Ok to perform self-test
+X022: Ok to perform self-test
+X023: Ok to perform self-test
+X024: Ok to perform self-test
+X025: Ok to perform self-test
+X026: Ok to perform self-test
+Y001: Ok to perform self-test
+Y002: Ok to perform self-test
+Y003: ''
+Y004: ''
+Y005: ''
+Y006: ''
+Y007: ''
+Y008: ''
+Y009: ''
+Y010: ''
+Y011: ''
+Y012: ''
+Y013: ''
+Y014: ''
+Y015: ''
+Y016: ''
+Y017: ''
+Y018: ''
+Y019: ''
+Y020: ''
+Y021: ''
+Y022: ''
+Y023: ''
+Y024: ''
+Y025: ''
+Y026: ''
+Z001: It is private, it's fun to learn
+Z002: It is private
+Z003: It saves time
+Z004: It saves time, Cost?
+Z005: It saves time, It is private
+Z006: It saves time, It is private
+Z007: It saves time
+Z008: It saves time
+Z009: It saves time
+Z010: It saves time
+Z011: It saves time, It is private
+Z012: It is private
+Z013: It saves time, It is private
+Z014: It saves time
+Z015: 'It saves time, Accessible '
+Z016: Can access tests not offered or supported by PCP
+Z017: It saves time, It is private
+Z018: It saves time
+Z019: It saves time
+Z020: It saves time, It is private
+Z021: It saves time
+Z022: It saves time
+Z023: 'there is no value unless is linked to an application. '
+Z024: It saves time
+Z025: It saves time
+Z026: It saves time

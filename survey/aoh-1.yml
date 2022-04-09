@@ -1,0 +1,2366 @@
+---
+- ? '1. Health is one of the important components of everyone''s life. Depending on
+    the stage of life, health goals can vary significantly. What are your main health
+    aspirations these days? '
+  : Get myself out of a significant health issue
+  10. Are you comfortable with doing the necessary tests at home instead of going somewhere for them?  [Other]: ''
+  ? 10. Are you comfortable with doing the necessary tests at home instead of going
+    somewhere for them?  [Saliva (DNA test, hormones)]
+  : Ok to perform self-test
+  ? 10. Are you comfortable with doing the necessary tests at home instead of going
+    somewhere for them?  [Skin swab (Microbiome assessment)]
+  : Ok to perform self-test
+  ? 10. Are you comfortable with doing the necessary tests at home instead of going
+    somewhere for them?  [Urine (nutrient needs, sensitivities)]
+  : Ok to perform self-test
+  11. What is the value to you for doing home test? (select all that apply): It saves
+    time, It is private, I love PhenomX
+  12. Which targets of your personalized diet would you value most?: Clear everyday
+    plan easy to follow, Fast results addressing current issues
+  13. Please estimate your monthly spending on health (health insurance, doctors, medical tests, nutritionists, supplements, etc).: Over
+    1000 USD
+  '14. What would be your comfortable monthly subscription price for such a dream app. ': 15-20
+    USD/month
+  15. Could you please share in what year you were born?: the 1800s
+  16. In which country do you live ?: ''
+  ? 17. Are you willing to share your ideas further? We would be delighted to give
+    you 3 months access to our app once it is ready.  Please leave us your email.
+  : Sure
+  2. How have you been feeling in the last couple of weeks? What 5 symptoms below, if any, were your main discomfort?: Hot
+    flashes, Headaches, Brain fog, Anxiety and/or panic attacks, Heart palpitations
+  ? 3. Whom have you been approaching so far to help you deal with those symptoms?
+    Were you satisfied? [I asked my friends or family ]
+  : ''
+  ? 3. Whom have you been approaching so far to help you deal with those symptoms?
+    Were you satisfied? [I consulted my General Practitioner]
+  : ''
+  ? 3. Whom have you been approaching so far to help you deal with those symptoms?
+    Were you satisfied? [I consulted my gynaecologist]
+  : ''
+  3. Whom have you been approaching so far to help you deal with those symptoms? Were you satisfied? [I consulted my naturopath]: ''
+  ? 3. Whom have you been approaching so far to help you deal with those symptoms?
+    Were you satisfied? [I don't have time for it now]
+  : ''
+  ? 3. Whom have you been approaching so far to help you deal with those symptoms?
+    Were you satisfied? [I informed myself on menopause]
+  : I was satisfied
+  3. Whom have you been approaching so far to help you deal with those symptoms? Were you satisfied? [I started regular sports]: ''
+  3. Whom have you been approaching so far to help you deal with those symptoms? Were you satisfied? [I take food supplements]: ''
+  3. Whom have you been approaching so far to help you deal with those symptoms? Were you satisfied? [I work with a psychologist]: I
+    was satisfied
+  4. How do you mainly make decisions about your nutrition and food supplements? Please choose up to three.: I
+    only listen to my body and follow its needs
+  5. Did you know that the majority of menopause symptoms could be addressed and resolved with the help of nutrition?: I
+    don't believe it
+  ? 6. We are developing an app to support women in their hormonal journey during
+    menopause. Would you be interested in having such an app?
+  : Not sure, I would like to learn more.
+  7. Imagine you got such an app of your dreams. What would it absolutely contain? Check all that apply.: General
+    recommendations on how to address symptoms of menopause with the help of nutrition,
+    Connection with people who are at the same stage in their lives or have just been
+    through it, Network of certified trusted nutritionists for online consultation,
+    Lalalala
+  7. Why would you not be interested?: ''
+  8. Imagine you get your dream application. What would it absolutely contain? Check all that apply.: ''
+  8a. Do you enjoy its look and feel?: Overall, yes. It is nice
+  8b. Do you have any recommendations for us to improve the app?: Can't wait to use
+    it!
+  9. What are your preferred ways to monitor your health indicators?: Apple watch
+    (or alike)
+  'Thank you so much for your time! ': You are welcome
+  Timestamp: 04/02/2022 12:08:16
+- ? '1. Health is one of the important components of everyone''s life. Depending on
+    the stage of life, health goals can vary significantly. What are your main health
+    aspirations these days? '
+  : ''
+  10. Are you comfortable with doing the necessary tests at home instead of going somewhere for them?  [Other]: ''
+  ? 10. Are you comfortable with doing the necessary tests at home instead of going
+    somewhere for them?  [Saliva (DNA test, hormones)]
+  : ''
+  ? 10. Are you comfortable with doing the necessary tests at home instead of going
+    somewhere for them?  [Skin swab (Microbiome assessment)]
+  : ''
+  ? 10. Are you comfortable with doing the necessary tests at home instead of going
+    somewhere for them?  [Urine (nutrient needs, sensitivities)]
+  : ''
+  11. What is the value to you for doing home test? (select all that apply): ''
+  12. Which targets of your personalized diet would you value most?: ''
+  13. Please estimate your monthly spending on health (health insurance, doctors, medical tests, nutritionists, supplements, etc).: ''
+  '14. What would be your comfortable monthly subscription price for such a dream app. ': ''
+  15. Could you please share in what year you were born?: ''
+  16. In which country do you live ?: ''
+  ? 17. Are you willing to share your ideas further? We would be delighted to give
+    you 3 months access to our app once it is ready.  Please leave us your email.
+  : ''
+  2. How have you been feeling in the last couple of weeks? What 5 symptoms below, if any, were your main discomfort?: ''
+  ? 3. Whom have you been approaching so far to help you deal with those symptoms?
+    Were you satisfied? [I asked my friends or family ]
+  : ''
+  ? 3. Whom have you been approaching so far to help you deal with those symptoms?
+    Were you satisfied? [I consulted my General Practitioner]
+  : ''
+  ? 3. Whom have you been approaching so far to help you deal with those symptoms?
+    Were you satisfied? [I consulted my gynaecologist]
+  : ''
+  3. Whom have you been approaching so far to help you deal with those symptoms? Were you satisfied? [I consulted my naturopath]: ''
+  ? 3. Whom have you been approaching so far to help you deal with those symptoms?
+    Were you satisfied? [I don't have time for it now]
+  : ''
+  ? 3. Whom have you been approaching so far to help you deal with those symptoms?
+    Were you satisfied? [I informed myself on menopause]
+  : ''
+  3. Whom have you been approaching so far to help you deal with those symptoms? Were you satisfied? [I started regular sports]: ''
+  3. Whom have you been approaching so far to help you deal with those symptoms? Were you satisfied? [I take food supplements]: ''
+  3. Whom have you been approaching so far to help you deal with those symptoms? Were you satisfied? [I work with a psychologist]: ''
+  4. How do you mainly make decisions about your nutrition and food supplements? Please choose up to three.: ''
+  5. Did you know that the majority of menopause symptoms could be addressed and resolved with the help of nutrition?: ''
+  ? 6. We are developing an app to support women in their hormonal journey during
+    menopause. Would you be interested in having such an app?
+  : Yes
+  7. Imagine you got such an app of your dreams. What would it absolutely contain? Check all that apply.: Connection
+    with people who are at the same stage in their lives or have just been through
+    it
+  7. Why would you not be interested?: ''
+  8. Imagine you get your dream application. What would it absolutely contain? Check all that apply.: ''
+  8a. Do you enjoy its look and feel?: ''
+  8b. Do you have any recommendations for us to improve the app?: ''
+  9. What are your preferred ways to monitor your health indicators?: ''
+  'Thank you so much for your time! ': ''
+  Timestamp: 04/02/2022 12:15:56
+- ? '1. Health is one of the important components of everyone''s life. Depending on
+    the stage of life, health goals can vary significantly. What are your main health
+    aspirations these days? '
+  : Prepare myself for the upcoming health challenge
+  10. Are you comfortable with doing the necessary tests at home instead of going somewhere for them?  [Other]: ''
+  ? 10. Are you comfortable with doing the necessary tests at home instead of going
+    somewhere for them?  [Saliva (DNA test, hormones)]
+  : Ok to perform self-test
+  ? 10. Are you comfortable with doing the necessary tests at home instead of going
+    somewhere for them?  [Skin swab (Microbiome assessment)]
+  : not comfortable
+  ? 10. Are you comfortable with doing the necessary tests at home instead of going
+    somewhere for them?  [Urine (nutrient needs, sensitivities)]
+  : not comfortable
+  11. What is the value to you for doing home test? (select all that apply): no value
+  12. Which targets of your personalized diet would you value most?: Focus on optimal
+    weight
+  13. Please estimate your monthly spending on health (health insurance, doctors, medical tests, nutritionists, supplements, etc).: less
+    than 500 USD
+  '14. What would be your comfortable monthly subscription price for such a dream app. ': ''
+  15. Could you please share in what year you were born?: '0000'
+  16. In which country do you live ?: ''
+  ? 17. Are you willing to share your ideas further? We would be delighted to give
+    you 3 months access to our app once it is ready.  Please leave us your email.
+  : '@jesus'
+  2. How have you been feeling in the last couple of weeks? What 5 symptoms below, if any, were your main discomfort?: Bloating,
+    Cold flashes, Headaches, Anxiety and/or panic attacks, Heart palpitations, Sleep
+    difficulties, Low energy, fatigue, Weight gain, Bladder pain, frequent urination,
+    Incontinence, Skin wrinkling, Age spots, melasma, Hair loss, thinning, change
+    in texture
+  ? 3. Whom have you been approaching so far to help you deal with those symptoms?
+    Were you satisfied? [I asked my friends or family ]
+  : I was satisfied
+  ? 3. Whom have you been approaching so far to help you deal with those symptoms?
+    Were you satisfied? [I consulted my General Practitioner]
+  : I was not satisfied
+  ? 3. Whom have you been approaching so far to help you deal with those symptoms?
+    Were you satisfied? [I consulted my gynaecologist]
+  : I was satisfied
+  3. Whom have you been approaching so far to help you deal with those symptoms? Were you satisfied? [I consulted my naturopath]: I
+    was not satisfied
+  ? 3. Whom have you been approaching so far to help you deal with those symptoms?
+    Were you satisfied? [I don't have time for it now]
+  : I was satisfied
+  ? 3. Whom have you been approaching so far to help you deal with those symptoms?
+    Were you satisfied? [I informed myself on menopause]
+  : I was not satisfied
+  3. Whom have you been approaching so far to help you deal with those symptoms? Were you satisfied? [I started regular sports]: I
+    was not satisfied
+  3. Whom have you been approaching so far to help you deal with those symptoms? Were you satisfied? [I take food supplements]: I
+    was satisfied
+  3. Whom have you been approaching so far to help you deal with those symptoms? Were you satisfied? [I work with a psychologist]: ''
+  4. How do you mainly make decisions about your nutrition and food supplements? Please choose up to three.: I
+    am aware of general healthy ways and try to stick to them, I consulted a nutritionist
+    and have a personalized plan to follow, I follow advice from my doctors, I ask
+    for advice when in the pharmacy
+  5. Did you know that the majority of menopause symptoms could be addressed and resolved with the help of nutrition?: Yes,
+    but I have not noticed this for myself yet
+  ? 6. We are developing an app to support women in their hormonal journey during
+    menopause. Would you be interested in having such an app?
+  : Not sure, I would like to learn more.
+  7. Imagine you got such an app of your dreams. What would it absolutely contain? Check all that apply.: Connection
+    with people who are at the same stage in their lives or have just been through
+    it, Personalized recommendations without going to any specialists, One- click
+    purchase of food supplements of trusted brands
+  7. Why would you not be interested?: ''
+  8. Imagine you get your dream application. What would it absolutely contain? Check all that apply.: ''
+  8a. Do you enjoy its look and feel?: Overall, yes. It is nice
+  8b. Do you have any recommendations for us to improve the app?: absolutetly not
+  9. What are your preferred ways to monitor your health indicators?: I don't like
+    self-monitoring, prefer to go to a doctor
+  'Thank you so much for your time! ': ''
+  Timestamp: 04/02/2022 17:05:58
+- ? '1. Health is one of the important components of everyone''s life. Depending on
+    the stage of life, health goals can vary significantly. What are your main health
+    aspirations these days? '
+  : Support myself in an ongoing transformation journey, Prepare myself for the upcoming
+    health challenge
+  10. Are you comfortable with doing the necessary tests at home instead of going somewhere for them?  [Other]: ''
+  ? 10. Are you comfortable with doing the necessary tests at home instead of going
+    somewhere for them?  [Saliva (DNA test, hormones)]
+  : Ok to perform self-test
+  ? 10. Are you comfortable with doing the necessary tests at home instead of going
+    somewhere for them?  [Skin swab (Microbiome assessment)]
+  : ''
+  ? 10. Are you comfortable with doing the necessary tests at home instead of going
+    somewhere for them?  [Urine (nutrient needs, sensitivities)]
+  : Ok to perform self-test
+  11. What is the value to you for doing home test? (select all that apply): It saves
+    time, It is private
+  12. Which targets of your personalized diet would you value most?: Fast results
+    addressing current issues, Preventive plan, Focus on optimal weight, Advice on
+    healthy recipes
+  13. Please estimate your monthly spending on health (health insurance, doctors, medical tests, nutritionists, supplements, etc).: less
+    than 500 USD
+  '14. What would be your comfortable monthly subscription price for such a dream app. ': 5-10
+    USD/month
+  15. Could you please share in what year you were born?: '1974'
+  16. In which country do you live ?: ''
+  ? 17. Are you willing to share your ideas further? We would be delighted to give
+    you 3 months access to our app once it is ready.  Please leave us your email.
+  : oana@proovtest.com
+  2. How have you been feeling in the last couple of weeks? What 5 symptoms below, if any, were your main discomfort?: Bloating,
+    Gas, Brain fog, Anxiety and/or panic attacks, Joint pain
+  ? 3. Whom have you been approaching so far to help you deal with those symptoms?
+    Were you satisfied? [I asked my friends or family ]
+  : ''
+  ? 3. Whom have you been approaching so far to help you deal with those symptoms?
+    Were you satisfied? [I consulted my General Practitioner]
+  : ''
+  ? 3. Whom have you been approaching so far to help you deal with those symptoms?
+    Were you satisfied? [I consulted my gynaecologist]
+  : I was satisfied
+  3. Whom have you been approaching so far to help you deal with those symptoms? Were you satisfied? [I consulted my naturopath]: ''
+  ? 3. Whom have you been approaching so far to help you deal with those symptoms?
+    Were you satisfied? [I don't have time for it now]
+  : ''
+  ? 3. Whom have you been approaching so far to help you deal with those symptoms?
+    Were you satisfied? [I informed myself on menopause]
+  : I was satisfied
+  3. Whom have you been approaching so far to help you deal with those symptoms? Were you satisfied? [I started regular sports]: ''
+  3. Whom have you been approaching so far to help you deal with those symptoms? Were you satisfied? [I take food supplements]: I
+    was satisfied
+  3. Whom have you been approaching so far to help you deal with those symptoms? Were you satisfied? [I work with a psychologist]: ''
+  4. How do you mainly make decisions about your nutrition and food supplements? Please choose up to three.: I
+    am aware of general healthy ways and try to stick to them
+  5. Did you know that the majority of menopause symptoms could be addressed and resolved with the help of nutrition?: Yes,
+    but I have not noticed this for myself yet
+  ? 6. We are developing an app to support women in their hormonal journey during
+    menopause. Would you be interested in having such an app?
+  : Yes
+  7. Imagine you got such an app of your dreams. What would it absolutely contain? Check all that apply.: General
+    recommendations on how to address symptoms of menopause with the help of nutrition,
+    Personalized recommendations without going to any specialists, One- click purchase
+    of food supplements of trusted brands
+  7. Why would you not be interested?: ''
+  8. Imagine you get your dream application. What would it absolutely contain? Check all that apply.: ''
+  8a. Do you enjoy its look and feel?: Overall, yes. It is nice
+  8b. Do you have any recommendations for us to improve the app?: ''
+  9. What are your preferred ways to monitor your health indicators?: I don't like
+    self-monitoring, prefer to go to a doctor
+  'Thank you so much for your time! ': Thank you Dr Draper :)
+  Timestamp: 04/02/2022 18:47:58
+- ? '1. Health is one of the important components of everyone''s life. Depending on
+    the stage of life, health goals can vary significantly. What are your main health
+    aspirations these days? '
+  : Prepare myself for the upcoming health challenge
+  10. Are you comfortable with doing the necessary tests at home instead of going somewhere for them?  [Other]: ''
+  ? 10. Are you comfortable with doing the necessary tests at home instead of going
+    somewhere for them?  [Saliva (DNA test, hormones)]
+  : Ok to perform self-test
+  ? 10. Are you comfortable with doing the necessary tests at home instead of going
+    somewhere for them?  [Skin swab (Microbiome assessment)]
+  : Ok to perform self-test
+  ? 10. Are you comfortable with doing the necessary tests at home instead of going
+    somewhere for them?  [Urine (nutrient needs, sensitivities)]
+  : Ok to perform self-test
+  11. What is the value to you for doing home test? (select all that apply): It is
+    private
+  12. Which targets of your personalized diet would you value most?: Clear everyday
+    plan easy to follow, Focus on optimal weight, Advice on healthy recipes
+  13. Please estimate your monthly spending on health (health insurance, doctors, medical tests, nutritionists, supplements, etc).: less
+    than 500 USD
+  '14. What would be your comfortable monthly subscription price for such a dream app. ': 5-10
+    USD/month
+  15. Could you please share in what year you were born?: '1967'
+  16. In which country do you live ?: ''
+  ? 17. Are you willing to share your ideas further? We would be delighted to give
+    you 3 months access to our app once it is ready.  Please leave us your email.
+  : ''
+  2. How have you been feeling in the last couple of weeks? What 5 symptoms below, if any, were your main discomfort?: Gas,
+    Constipation, Brain fog, Hair loss, thinning, change in texture
+  ? 3. Whom have you been approaching so far to help you deal with those symptoms?
+    Were you satisfied? [I asked my friends or family ]
+  : ''
+  ? 3. Whom have you been approaching so far to help you deal with those symptoms?
+    Were you satisfied? [I consulted my General Practitioner]
+  : ''
+  ? 3. Whom have you been approaching so far to help you deal with those symptoms?
+    Were you satisfied? [I consulted my gynaecologist]
+  : ''
+  3. Whom have you been approaching so far to help you deal with those symptoms? Were you satisfied? [I consulted my naturopath]: ''
+  ? 3. Whom have you been approaching so far to help you deal with those symptoms?
+    Were you satisfied? [I don't have time for it now]
+  : ''
+  ? 3. Whom have you been approaching so far to help you deal with those symptoms?
+    Were you satisfied? [I informed myself on menopause]
+  : I was satisfied
+  3. Whom have you been approaching so far to help you deal with those symptoms? Were you satisfied? [I started regular sports]: I
+    was satisfied
+  3. Whom have you been approaching so far to help you deal with those symptoms? Were you satisfied? [I take food supplements]: I
+    was satisfied
+  3. Whom have you been approaching so far to help you deal with those symptoms? Were you satisfied? [I work with a psychologist]: ''
+  4. How do you mainly make decisions about your nutrition and food supplements? Please choose up to three.: I
+    am aware of general healthy ways and try to stick to them
+  5. Did you know that the majority of menopause symptoms could be addressed and resolved with the help of nutrition?: Yes,
+    but I have not noticed this for myself yet
+  ? 6. We are developing an app to support women in their hormonal journey during
+    menopause. Would you be interested in having such an app?
+  : Yes
+  7. Imagine you got such an app of your dreams. What would it absolutely contain? Check all that apply.: Personalized
+    recommendations without going to any specialists, One- click purchase of food
+    supplements of trusted brands
+  7. Why would you not be interested?: ''
+  8. Imagine you get your dream application. What would it absolutely contain? Check all that apply.: ''
+  8a. Do you enjoy its look and feel?: Overall, yes. It is nice
+  8b. Do you have any recommendations for us to improve the app?: ''
+  9. What are your preferred ways to monitor your health indicators?: Apple watch
+    (or alike)
+  'Thank you so much for your time! ': ''
+  Timestamp: 04/02/2022 19:09:46
+- ? '1. Health is one of the important components of everyone''s life. Depending on
+    the stage of life, health goals can vary significantly. What are your main health
+    aspirations these days? '
+  : Prepare myself for the upcoming health challenge
+  10. Are you comfortable with doing the necessary tests at home instead of going somewhere for them?  [Other]: ''
+  ? 10. Are you comfortable with doing the necessary tests at home instead of going
+    somewhere for them?  [Saliva (DNA test, hormones)]
+  : Ok to perform self-test
+  ? 10. Are you comfortable with doing the necessary tests at home instead of going
+    somewhere for them?  [Skin swab (Microbiome assessment)]
+  : Ok to perform self-test
+  ? 10. Are you comfortable with doing the necessary tests at home instead of going
+    somewhere for them?  [Urine (nutrient needs, sensitivities)]
+  : Ok to perform self-test
+  11. What is the value to you for doing home test? (select all that apply): It is
+    private
+  12. Which targets of your personalized diet would you value most?: Fast results
+    addressing current issues
+  13. Please estimate your monthly spending on health (health insurance, doctors, medical tests, nutritionists, supplements, etc).: less
+    than 500 USD
+  '14. What would be your comfortable monthly subscription price for such a dream app. ': Less
+    than 5 USD/month
+  15. Could you please share in what year you were born?: '1964'
+  16. In which country do you live ?: ''
+  ? 17. Are you willing to share your ideas further? We would be delighted to give
+    you 3 months access to our app once it is ready.  Please leave us your email.
+  : ''
+  2. How have you been feeling in the last couple of weeks? What 5 symptoms below, if any, were your main discomfort?: Bloating
+  ? 3. Whom have you been approaching so far to help you deal with those symptoms?
+    Were you satisfied? [I asked my friends or family ]
+  : ''
+  ? 3. Whom have you been approaching so far to help you deal with those symptoms?
+    Were you satisfied? [I consulted my General Practitioner]
+  : ''
+  ? 3. Whom have you been approaching so far to help you deal with those symptoms?
+    Were you satisfied? [I consulted my gynaecologist]
+  : ''
+  3. Whom have you been approaching so far to help you deal with those symptoms? Were you satisfied? [I consulted my naturopath]: ''
+  ? 3. Whom have you been approaching so far to help you deal with those symptoms?
+    Were you satisfied? [I don't have time for it now]
+  : ''
+  ? 3. Whom have you been approaching so far to help you deal with those symptoms?
+    Were you satisfied? [I informed myself on menopause]
+  : ''
+  3. Whom have you been approaching so far to help you deal with those symptoms? Were you satisfied? [I started regular sports]: I
+    was satisfied
+  3. Whom have you been approaching so far to help you deal with those symptoms? Were you satisfied? [I take food supplements]: I
+    was satisfied
+  3. Whom have you been approaching so far to help you deal with those symptoms? Were you satisfied? [I work with a psychologist]: ''
+  4. How do you mainly make decisions about your nutrition and food supplements? Please choose up to three.: I
+    only listen to my body and follow its needs, I follow advice from my doctors
+  5. Did you know that the majority of menopause symptoms could be addressed and resolved with the help of nutrition?: Yes,
+    I have felt the effect on myself
+  ? 6. We are developing an app to support women in their hormonal journey during
+    menopause. Would you be interested in having such an app?
+  : Yes
+  7. Imagine you got such an app of your dreams. What would it absolutely contain? Check all that apply.: General
+    recommendations on how to address symptoms of menopause with the help of nutrition,
+    Personalized recommendations without going to any specialists, Network of certified
+    trusted nutritionists for online consultation, One- click purchase of food supplements
+    of trusted brands
+  7. Why would you not be interested?: ''
+  8. Imagine you get your dream application. What would it absolutely contain? Check all that apply.: ''
+  8a. Do you enjoy its look and feel?: Overall, yes. It is nice
+  8b. Do you have any recommendations for us to improve the app?: ''
+  9. What are your preferred ways to monitor your health indicators?: Apple watch
+    (or alike)
+  'Thank you so much for your time! ': ''
+  Timestamp: 04/02/2022 20:31:41
+- ? '1. Health is one of the important components of everyone''s life. Depending on
+    the stage of life, health goals can vary significantly. What are your main health
+    aspirations these days? '
+  : Support myself in an ongoing transformation journey
+  10. Are you comfortable with doing the necessary tests at home instead of going somewhere for them?  [Other]: Ok
+    to perform self-test
+  ? 10. Are you comfortable with doing the necessary tests at home instead of going
+    somewhere for them?  [Saliva (DNA test, hormones)]
+  : Ok to perform self-test
+  ? 10. Are you comfortable with doing the necessary tests at home instead of going
+    somewhere for them?  [Skin swab (Microbiome assessment)]
+  : Ok to perform self-test
+  ? 10. Are you comfortable with doing the necessary tests at home instead of going
+    somewhere for them?  [Urine (nutrient needs, sensitivities)]
+  : Ok to perform self-test
+  11. What is the value to you for doing home test? (select all that apply): It saves
+    time
+  12. Which targets of your personalized diet would you value most?: Preventive plan,
+    Other
+  13. Please estimate your monthly spending on health (health insurance, doctors, medical tests, nutritionists, supplements, etc).: 500
+    USD - 750 USD
+  '14. What would be your comfortable monthly subscription price for such a dream app. ': 15-20
+    USD/month
+  15. Could you please share in what year you were born?: '1957'
+  16. In which country do you live ?: ''
+  ? 17. Are you willing to share your ideas further? We would be delighted to give
+    you 3 months access to our app once it is ready.  Please leave us your email.
+  : julie@juliefreeman.net
+  2. How have you been feeling in the last couple of weeks? What 5 symptoms below, if any, were your main discomfort?: None
+    of the above
+  ? 3. Whom have you been approaching so far to help you deal with those symptoms?
+    Were you satisfied? [I asked my friends or family ]
+  : ''
+  ? 3. Whom have you been approaching so far to help you deal with those symptoms?
+    Were you satisfied? [I consulted my General Practitioner]
+  : ''
+  ? 3. Whom have you been approaching so far to help you deal with those symptoms?
+    Were you satisfied? [I consulted my gynaecologist]
+  : ''
+  3. Whom have you been approaching so far to help you deal with those symptoms? Were you satisfied? [I consulted my naturopath]: ''
+  ? 3. Whom have you been approaching so far to help you deal with those symptoms?
+    Were you satisfied? [I don't have time for it now]
+  : ''
+  ? 3. Whom have you been approaching so far to help you deal with those symptoms?
+    Were you satisfied? [I informed myself on menopause]
+  : ''
+  3. Whom have you been approaching so far to help you deal with those symptoms? Were you satisfied? [I started regular sports]: ''
+  3. Whom have you been approaching so far to help you deal with those symptoms? Were you satisfied? [I take food supplements]: I
+    was satisfied
+  3. Whom have you been approaching so far to help you deal with those symptoms? Were you satisfied? [I work with a psychologist]: ''
+  4. How do you mainly make decisions about your nutrition and food supplements? Please choose up to three.: I
+    am aware of general healthy ways and try to stick to them, I use labs to also
+    inform my decisions
+  5. Did you know that the majority of menopause symptoms could be addressed and resolved with the help of nutrition?: Yes,
+    I have felt the effect on myself
+  ? 6. We are developing an app to support women in their hormonal journey during
+    menopause. Would you be interested in having such an app?
+  : Yes
+  7. Imagine you got such an app of your dreams. What would it absolutely contain? Check all that apply.: General
+    recommendations on how to address symptoms of menopause with the help of nutrition,
+    Network of certified trusted nutritionists for online consultation, One- click
+    purchase of food supplements of trusted brands, Personalized recommendations from
+    a women's health specialist who has a larger scope of practice, functional and
+    integrative medicine approaches, also the use of genomics
+  7. Why would you not be interested?: ''
+  8. Imagine you get your dream application. What would it absolutely contain? Check all that apply.: ''
+  8a. Do you enjoy its look and feel?: Overall, yes. It is nice
+  8b. Do you have any recommendations for us to improve the app?: Would like to see
+    some basic lab suggestions that are generally covered by traditional insurance
+    - ferritin, MMA, homocysteine, fasting blood sugar, insulin, A1C
+  9. What are your preferred ways to monitor your health indicators?: I have not used
+    apps but am interested in beginning to
+  'Thank you so much for your time! ': ''
+  Timestamp: 04/03/2022 01:14:44
+- ? '1. Health is one of the important components of everyone''s life. Depending on
+    the stage of life, health goals can vary significantly. What are your main health
+    aspirations these days? '
+  : Maintain status quo
+  10. Are you comfortable with doing the necessary tests at home instead of going somewhere for them?  [Other]: ''
+  ? 10. Are you comfortable with doing the necessary tests at home instead of going
+    somewhere for them?  [Saliva (DNA test, hormones)]
+  : Ok to perform self-test
+  ? 10. Are you comfortable with doing the necessary tests at home instead of going
+    somewhere for them?  [Skin swab (Microbiome assessment)]
+  : Ok to perform self-test
+  ? 10. Are you comfortable with doing the necessary tests at home instead of going
+    somewhere for them?  [Urine (nutrient needs, sensitivities)]
+  : Ok to perform self-test
+  11. What is the value to you for doing home test? (select all that apply): 'It saves
+    time, Less expensive '
+  12. Which targets of your personalized diet would you value most?: Clear everyday
+    plan easy to follow, Focus on optimal weight
+  13. Please estimate your monthly spending on health (health insurance, doctors, medical tests, nutritionists, supplements, etc).: less
+    than 500 USD
+  '14. What would be your comfortable monthly subscription price for such a dream app. ': 10-15
+    USD/month
+  15. Could you please share in what year you were born?: '1971'
+  16. In which country do you live ?: ''
+  ? 17. Are you willing to share your ideas further? We would be delighted to give
+    you 3 months access to our app once it is ready.  Please leave us your email.
+  : ''
+  2. How have you been feeling in the last couple of weeks? What 5 symptoms below, if any, were your main discomfort?: Sleep
+    difficulties, Low energy, fatigue, Dry mouth
+  ? 3. Whom have you been approaching so far to help you deal with those symptoms?
+    Were you satisfied? [I asked my friends or family ]
+  : ''
+  ? 3. Whom have you been approaching so far to help you deal with those symptoms?
+    Were you satisfied? [I consulted my General Practitioner]
+  : ''
+  ? 3. Whom have you been approaching so far to help you deal with those symptoms?
+    Were you satisfied? [I consulted my gynaecologist]
+  : ''
+  3. Whom have you been approaching so far to help you deal with those symptoms? Were you satisfied? [I consulted my naturopath]: ''
+  ? 3. Whom have you been approaching so far to help you deal with those symptoms?
+    Were you satisfied? [I don't have time for it now]
+  : ''
+  ? 3. Whom have you been approaching so far to help you deal with those symptoms?
+    Were you satisfied? [I informed myself on menopause]
+  : I was satisfied
+  3. Whom have you been approaching so far to help you deal with those symptoms? Were you satisfied? [I started regular sports]: ''
+  3. Whom have you been approaching so far to help you deal with those symptoms? Were you satisfied? [I take food supplements]: I
+    was satisfied
+  3. Whom have you been approaching so far to help you deal with those symptoms? Were you satisfied? [I work with a psychologist]: ''
+  4. How do you mainly make decisions about your nutrition and food supplements? Please choose up to three.: I
+    am aware of general healthy ways and try to stick to them
+  5. Did you know that the majority of menopause symptoms could be addressed and resolved with the help of nutrition?: Yes,
+    I have felt the effect on myself
+  ? 6. We are developing an app to support women in their hormonal journey during
+    menopause. Would you be interested in having such an app?
+  : Yes
+  7. Imagine you got such an app of your dreams. What would it absolutely contain? Check all that apply.: General
+    recommendations on how to address symptoms of menopause with the help of nutrition,
+    Personalized recommendations without going to any specialists, One- click purchase
+    of food supplements of trusted brands
+  7. Why would you not be interested?: ''
+  8. Imagine you get your dream application. What would it absolutely contain? Check all that apply.: ''
+  8a. Do you enjoy its look and feel?: Overall, yes. It is nice
+  8b. Do you have any recommendations for us to improve the app?: ''
+  9. What are your preferred ways to monitor your health indicators?: Health App tracker
+    on i-phone (or alike)
+  'Thank you so much for your time! ': ''
+  Timestamp: 04/03/2022 08:56:09
+- ? '1. Health is one of the important components of everyone''s life. Depending on
+    the stage of life, health goals can vary significantly. What are your main health
+    aspirations these days? '
+  : Support myself in an ongoing transformation journey
+  10. Are you comfortable with doing the necessary tests at home instead of going somewhere for them?  [Other]: ''
+  ? 10. Are you comfortable with doing the necessary tests at home instead of going
+    somewhere for them?  [Saliva (DNA test, hormones)]
+  : Ok to perform self-test
+  ? 10. Are you comfortable with doing the necessary tests at home instead of going
+    somewhere for them?  [Skin swab (Microbiome assessment)]
+  : ''
+  ? 10. Are you comfortable with doing the necessary tests at home instead of going
+    somewhere for them?  [Urine (nutrient needs, sensitivities)]
+  : Ok to perform self-test
+  11. What is the value to you for doing home test? (select all that apply): It saves
+    time
+  12. Which targets of your personalized diet would you value most?: Fast results
+    addressing current issues
+  13. Please estimate your monthly spending on health (health insurance, doctors, medical tests, nutritionists, supplements, etc).: 500
+    USD - 750 USD
+  '14. What would be your comfortable monthly subscription price for such a dream app. ': Less
+    than 5 USD/month
+  15. Could you please share in what year you were born?: '1979'
+  16. In which country do you live ?: ''
+  ? 17. Are you willing to share your ideas further? We would be delighted to give
+    you 3 months access to our app once it is ready.  Please leave us your email.
+  : vbachmann@hotmail.com
+  2. How have you been feeling in the last couple of weeks? What 5 symptoms below, if any, were your main discomfort?: Menstrual
+    cramps, Headaches, Low energy, fatigue, Dry skin, Dry mouth
+  ? 3. Whom have you been approaching so far to help you deal with those symptoms?
+    Were you satisfied? [I asked my friends or family ]
+  : ''
+  ? 3. Whom have you been approaching so far to help you deal with those symptoms?
+    Were you satisfied? [I consulted my General Practitioner]
+  : ''
+  ? 3. Whom have you been approaching so far to help you deal with those symptoms?
+    Were you satisfied? [I consulted my gynaecologist]
+  : ''
+  3. Whom have you been approaching so far to help you deal with those symptoms? Were you satisfied? [I consulted my naturopath]: ''
+  ? 3. Whom have you been approaching so far to help you deal with those symptoms?
+    Were you satisfied? [I don't have time for it now]
+  : ''
+  ? 3. Whom have you been approaching so far to help you deal with those symptoms?
+    Were you satisfied? [I informed myself on menopause]
+  : ''
+  3. Whom have you been approaching so far to help you deal with those symptoms? Were you satisfied? [I started regular sports]: ''
+  3. Whom have you been approaching so far to help you deal with those symptoms? Were you satisfied? [I take food supplements]: I
+    was satisfied
+  3. Whom have you been approaching so far to help you deal with those symptoms? Were you satisfied? [I work with a psychologist]: ''
+  4. How do you mainly make decisions about your nutrition and food supplements? Please choose up to three.: I
+    only listen to my body and follow its needs, I ask for advice when in the pharmacy
+  5. Did you know that the majority of menopause symptoms could be addressed and resolved with the help of nutrition?: I
+    don't know, I need to read more about it
+  ? 6. We are developing an app to support women in their hormonal journey during
+    menopause. Would you be interested in having such an app?
+  : Yes
+  7. Imagine you got such an app of your dreams. What would it absolutely contain? Check all that apply.: Connection
+    with people who are at the same stage in their lives or have just been through
+    it, Personalized recommendations without going to any specialists, One- click
+    purchase of food supplements of trusted brands
+  7. Why would you not be interested?: ''
+  8. Imagine you get your dream application. What would it absolutely contain? Check all that apply.: ''
+  8a. Do you enjoy its look and feel?: Overall, yes. It is nice
+  8b. Do you have any recommendations for us to improve the app?: 'Having this app
+    in many languages '
+  9. What are your preferred ways to monitor your health indicators?: Health App tracker
+    on i-phone (or alike)
+  'Thank you so much for your time! ': 'It was a pleasure '
+  Timestamp: 04/03/2022 11:08:14
+- ? '1. Health is one of the important components of everyone''s life. Depending on
+    the stage of life, health goals can vary significantly. What are your main health
+    aspirations these days? '
+  : Maintain status quo
+  10. Are you comfortable with doing the necessary tests at home instead of going somewhere for them?  [Other]: not
+    comfortable
+  ? 10. Are you comfortable with doing the necessary tests at home instead of going
+    somewhere for them?  [Saliva (DNA test, hormones)]
+  : Ok to perform self-test
+  ? 10. Are you comfortable with doing the necessary tests at home instead of going
+    somewhere for them?  [Skin swab (Microbiome assessment)]
+  : Ok to perform self-test
+  ? 10. Are you comfortable with doing the necessary tests at home instead of going
+    somewhere for them?  [Urine (nutrient needs, sensitivities)]
+  : Ok to perform self-test
+  11. What is the value to you for doing home test? (select all that apply): It saves
+    time
+  12. Which targets of your personalized diet would you value most?: Clear everyday
+    plan easy to follow, Focus on optimal weight, Advice on healthy recipes
+  13. Please estimate your monthly spending on health (health insurance, doctors, medical tests, nutritionists, supplements, etc).: 500
+    USD - 750 USD
+  '14. What would be your comfortable monthly subscription price for such a dream app. ': 10-15
+    USD/month
+  15. Could you please share in what year you were born?: '1978'
+  16. In which country do you live ?: ''
+  ? 17. Are you willing to share your ideas further? We would be delighted to give
+    you 3 months access to our app once it is ready.  Please leave us your email.
+  : ''
+  2. How have you been feeling in the last couple of weeks? What 5 symptoms below, if any, were your main discomfort?: Mood
+    swings, Low energy, fatigue, Weight gain, Decreased memory
+  ? 3. Whom have you been approaching so far to help you deal with those symptoms?
+    Were you satisfied? [I asked my friends or family ]
+  : I was not satisfied
+  ? 3. Whom have you been approaching so far to help you deal with those symptoms?
+    Were you satisfied? [I consulted my General Practitioner]
+  : ''
+  ? 3. Whom have you been approaching so far to help you deal with those symptoms?
+    Were you satisfied? [I consulted my gynaecologist]
+  : ''
+  3. Whom have you been approaching so far to help you deal with those symptoms? Were you satisfied? [I consulted my naturopath]: ''
+  ? 3. Whom have you been approaching so far to help you deal with those symptoms?
+    Were you satisfied? [I don't have time for it now]
+  : I was not satisfied
+  ? 3. Whom have you been approaching so far to help you deal with those symptoms?
+    Were you satisfied? [I informed myself on menopause]
+  : ''
+  3. Whom have you been approaching so far to help you deal with those symptoms? Were you satisfied? [I started regular sports]: ''
+  3. Whom have you been approaching so far to help you deal with those symptoms? Were you satisfied? [I take food supplements]: ''
+  3. Whom have you been approaching so far to help you deal with those symptoms? Were you satisfied? [I work with a psychologist]: ''
+  4. How do you mainly make decisions about your nutrition and food supplements? Please choose up to three.: I
+    only listen to my body and follow its needs, I am aware of general healthy ways
+    and try to stick to them, I ask for advice when in the pharmacy
+  5. Did you know that the majority of menopause symptoms could be addressed and resolved with the help of nutrition?: I
+    don't know, I need to read more about it
+  ? 6. We are developing an app to support women in their hormonal journey during
+    menopause. Would you be interested in having such an app?
+  : Yes
+  7. Imagine you got such an app of your dreams. What would it absolutely contain? Check all that apply.: General
+    recommendations on how to address symptoms of menopause with the help of nutrition,
+    Connection with people who are at the same stage in their lives or have just been
+    through it, Personalized recommendations without going to any specialists, One-
+    click purchase of food supplements of trusted brands
+  7. Why would you not be interested?: ''
+  8. Imagine you get your dream application. What would it absolutely contain? Check all that apply.: ''
+  8a. Do you enjoy its look and feel?: Overall, yes. It is nice
+  8b. Do you have any recommendations for us to improve the app?: ''
+  9. What are your preferred ways to monitor your health indicators?: Apple watch
+    (or alike)
+  'Thank you so much for your time! ': ''
+  Timestamp: 04/03/2022 14:42:52
+- ? '1. Health is one of the important components of everyone''s life. Depending on
+    the stage of life, health goals can vary significantly. What are your main health
+    aspirations these days? '
+  : Maintain status quo
+  10. Are you comfortable with doing the necessary tests at home instead of going somewhere for them?  [Other]: ''
+  ? 10. Are you comfortable with doing the necessary tests at home instead of going
+    somewhere for them?  [Saliva (DNA test, hormones)]
+  : Ok to perform self-test
+  ? 10. Are you comfortable with doing the necessary tests at home instead of going
+    somewhere for them?  [Skin swab (Microbiome assessment)]
+  : Ok to perform self-test
+  ? 10. Are you comfortable with doing the necessary tests at home instead of going
+    somewhere for them?  [Urine (nutrient needs, sensitivities)]
+  : Ok to perform self-test
+  11. What is the value to you for doing home test? (select all that apply): It saves
+    time, language barrier
+  12. Which targets of your personalized diet would you value most?: Clear everyday
+    plan easy to follow, Focus on optimal weight, Advice on healthy recipes
+  13. Please estimate your monthly spending on health (health insurance, doctors, medical tests, nutritionists, supplements, etc).: 500
+    USD - 750 USD
+  '14. What would be your comfortable monthly subscription price for such a dream app. ': 10-15
+    USD/month
+  15. Could you please share in what year you were born?: '1979'
+  16. In which country do you live ?: ''
+  ? 17. Are you willing to share your ideas further? We would be delighted to give
+    you 3 months access to our app once it is ready.  Please leave us your email.
+  : cencul@centrum.cz
+  2. How have you been feeling in the last couple of weeks? What 5 symptoms below, if any, were your main discomfort?: Joint
+    pain, Low energy, fatigue, Weight gain, Skin wrinkling
+  ? 3. Whom have you been approaching so far to help you deal with those symptoms?
+    Were you satisfied? [I asked my friends or family ]
+  : ''
+  ? 3. Whom have you been approaching so far to help you deal with those symptoms?
+    Were you satisfied? [I consulted my General Practitioner]
+  : ''
+  ? 3. Whom have you been approaching so far to help you deal with those symptoms?
+    Were you satisfied? [I consulted my gynaecologist]
+  : ''
+  3. Whom have you been approaching so far to help you deal with those symptoms? Were you satisfied? [I consulted my naturopath]: ''
+  ? 3. Whom have you been approaching so far to help you deal with those symptoms?
+    Were you satisfied? [I don't have time for it now]
+  : ''
+  ? 3. Whom have you been approaching so far to help you deal with those symptoms?
+    Were you satisfied? [I informed myself on menopause]
+  : ''
+  3. Whom have you been approaching so far to help you deal with those symptoms? Were you satisfied? [I started regular sports]: I
+    was satisfied
+  3. Whom have you been approaching so far to help you deal with those symptoms? Were you satisfied? [I take food supplements]: ''
+  3. Whom have you been approaching so far to help you deal with those symptoms? Were you satisfied? [I work with a psychologist]: ''
+  4. How do you mainly make decisions about your nutrition and food supplements? Please choose up to three.: I
+    am aware of general healthy ways and try to stick to them
+  5. Did you know that the majority of menopause symptoms could be addressed and resolved with the help of nutrition?: I
+    don't know, I need to read more about it
+  ? 6. We are developing an app to support women in their hormonal journey during
+    menopause. Would you be interested in having such an app?
+  : Yes
+  7. Imagine you got such an app of your dreams. What would it absolutely contain? Check all that apply.: General
+    recommendations on how to address symptoms of menopause with the help of nutrition,
+    Personalized recommendations without going to any specialists, One- click purchase
+    of food supplements of trusted brands
+  7. Why would you not be interested?: ''
+  8. Imagine you get your dream application. What would it absolutely contain? Check all that apply.: ''
+  8a. Do you enjoy its look and feel?: Not really, would see room for improvement
+  8b. Do you have any recommendations for us to improve the app?: significantly more
+    appealing visual design, size of font/readibility for this audience, going in
+    depth why the selection of food/extras recommended to achieve what...
+  9. What are your preferred ways to monitor your health indicators?: Apple watch
+    (or alike)
+  'Thank you so much for your time! ': good luck!
+  Timestamp: 04/03/2022 15:31:57
+- ? '1. Health is one of the important components of everyone''s life. Depending on
+    the stage of life, health goals can vary significantly. What are your main health
+    aspirations these days? '
+  : Support myself in an ongoing transformation journey
+  10. Are you comfortable with doing the necessary tests at home instead of going somewhere for them?  [Other]: Ok
+    to perform self-test
+  ? 10. Are you comfortable with doing the necessary tests at home instead of going
+    somewhere for them?  [Saliva (DNA test, hormones)]
+  : Ok to perform self-test
+  ? 10. Are you comfortable with doing the necessary tests at home instead of going
+    somewhere for them?  [Skin swab (Microbiome assessment)]
+  : Ok to perform self-test
+  ? 10. Are you comfortable with doing the necessary tests at home instead of going
+    somewhere for them?  [Urine (nutrient needs, sensitivities)]
+  : Ok to perform self-test
+  11. What is the value to you for doing home test? (select all that apply): It saves
+    time, It is private
+  12. Which targets of your personalized diet would you value most?: Fast results
+    addressing current issues, Preventive plan, Focus on optimal weight
+  13. Please estimate your monthly spending on health (health insurance, doctors, medical tests, nutritionists, supplements, etc).: less
+    than 500 USD
+  '14. What would be your comfortable monthly subscription price for such a dream app. ': 5-10
+    USD/month
+  15. Could you please share in what year you were born?: '1978'
+  16. In which country do you live ?: ''
+  ? 17. Are you willing to share your ideas further? We would be delighted to give
+    you 3 months access to our app once it is ready.  Please leave us your email.
+  : lskavska@hotmail.com
+  2. How have you been feeling in the last couple of weeks? What 5 symptoms below, if any, were your main discomfort?: Mood
+    swings, Low energy, fatigue, Frequent sickness - colds, flu, etc.
+  ? 3. Whom have you been approaching so far to help you deal with those symptoms?
+    Were you satisfied? [I asked my friends or family ]
+  : I was satisfied
+  ? 3. Whom have you been approaching so far to help you deal with those symptoms?
+    Were you satisfied? [I consulted my General Practitioner]
+  : ''
+  ? 3. Whom have you been approaching so far to help you deal with those symptoms?
+    Were you satisfied? [I consulted my gynaecologist]
+  : ''
+  3. Whom have you been approaching so far to help you deal with those symptoms? Were you satisfied? [I consulted my naturopath]: ''
+  ? 3. Whom have you been approaching so far to help you deal with those symptoms?
+    Were you satisfied? [I don't have time for it now]
+  : ''
+  ? 3. Whom have you been approaching so far to help you deal with those symptoms?
+    Were you satisfied? [I informed myself on menopause]
+  : I was satisfied
+  3. Whom have you been approaching so far to help you deal with those symptoms? Were you satisfied? [I started regular sports]: I
+    was satisfied
+  3. Whom have you been approaching so far to help you deal with those symptoms? Were you satisfied? [I take food supplements]: I
+    was satisfied
+  3. Whom have you been approaching so far to help you deal with those symptoms? Were you satisfied? [I work with a psychologist]: ''
+  4. How do you mainly make decisions about your nutrition and food supplements? Please choose up to three.: I
+    only listen to my body and follow its needs, I am aware of general healthy ways
+    and try to stick to them
+  5. Did you know that the majority of menopause symptoms could be addressed and resolved with the help of nutrition?: I
+    don't know, I need to read more about it
+  ? 6. We are developing an app to support women in their hormonal journey during
+    menopause. Would you be interested in having such an app?
+  : Yes
+  7. Imagine you got such an app of your dreams. What would it absolutely contain? Check all that apply.: General
+    recommendations on how to address symptoms of menopause with the help of nutrition,
+    Personalized recommendations without going to any specialists, Network of certified
+    trusted nutritionists for online consultation, One- click purchase of food supplements
+    of trusted brands
+  7. Why would you not be interested?: ''
+  8. Imagine you get your dream application. What would it absolutely contain? Check all that apply.: ''
+  8a. Do you enjoy its look and feel?: Not really, would see room for improvement
+  8b. Do you have any recommendations for us to improve the app?: I would need to
+    see it more in detail and try out the functionalities and the general feel of
+    it.
+  9. What are your preferred ways to monitor your health indicators?: Apple watch
+    (or alike)
+  'Thank you so much for your time! ': :-) Good luck with the app!
+  Timestamp: 04/03/2022 17:58:15
+- ? '1. Health is one of the important components of everyone''s life. Depending on
+    the stage of life, health goals can vary significantly. What are your main health
+    aspirations these days? '
+  : Maintain status quo, Support myself in an ongoing transformation journey
+  10. Are you comfortable with doing the necessary tests at home instead of going somewhere for them?  [Other]: ''
+  ? 10. Are you comfortable with doing the necessary tests at home instead of going
+    somewhere for them?  [Saliva (DNA test, hormones)]
+  : Ok to perform self-test
+  ? 10. Are you comfortable with doing the necessary tests at home instead of going
+    somewhere for them?  [Skin swab (Microbiome assessment)]
+  : Ok to perform self-test
+  ? 10. Are you comfortable with doing the necessary tests at home instead of going
+    somewhere for them?  [Urine (nutrient needs, sensitivities)]
+  : Ok to perform self-test
+  11. What is the value to you for doing home test? (select all that apply): It saves
+    time, It is private
+  12. Which targets of your personalized diet would you value most?: Clear everyday
+    plan easy to follow, Fast results addressing current issues, Focus on optimal
+    weight
+  13. Please estimate your monthly spending on health (health insurance, doctors, medical tests, nutritionists, supplements, etc).: 500
+    USD - 750 USD
+  '14. What would be your comfortable monthly subscription price for such a dream app. ': 10-15
+    USD/month
+  15. Could you please share in what year you were born?: '1969'
+  16. In which country do you live ?: ''
+  ? 17. Are you willing to share your ideas further? We would be delighted to give
+    you 3 months access to our app once it is ready.  Please leave us your email.
+  : charmed_life36@hotmail.com
+  2. How have you been feeling in the last couple of weeks? What 5 symptoms below, if any, were your main discomfort?: Skin
+    wrinkling, Decreased memory
+  ? 3. Whom have you been approaching so far to help you deal with those symptoms?
+    Were you satisfied? [I asked my friends or family ]
+  : ''
+  ? 3. Whom have you been approaching so far to help you deal with those symptoms?
+    Were you satisfied? [I consulted my General Practitioner]
+  : ''
+  ? 3. Whom have you been approaching so far to help you deal with those symptoms?
+    Were you satisfied? [I consulted my gynaecologist]
+  : ''
+  3. Whom have you been approaching so far to help you deal with those symptoms? Were you satisfied? [I consulted my naturopath]: ''
+  ? 3. Whom have you been approaching so far to help you deal with those symptoms?
+    Were you satisfied? [I don't have time for it now]
+  : ''
+  ? 3. Whom have you been approaching so far to help you deal with those symptoms?
+    Were you satisfied? [I informed myself on menopause]
+  : I was satisfied
+  3. Whom have you been approaching so far to help you deal with those symptoms? Were you satisfied? [I started regular sports]: I
+    was satisfied
+  3. Whom have you been approaching so far to help you deal with those symptoms? Were you satisfied? [I take food supplements]: I
+    was satisfied
+  3. Whom have you been approaching so far to help you deal with those symptoms? Were you satisfied? [I work with a psychologist]: ''
+  4. How do you mainly make decisions about your nutrition and food supplements? Please choose up to three.: I
+    only listen to my body and follow its needs, I am aware of general healthy ways
+    and try to stick to them, I consulted a nutritionist and have a personalized plan
+    to follow
+  5. Did you know that the majority of menopause symptoms could be addressed and resolved with the help of nutrition?: Yes,
+    but I have not noticed this for myself yet
+  ? 6. We are developing an app to support women in their hormonal journey during
+    menopause. Would you be interested in having such an app?
+  : Not sure, I would like to learn more.
+  7. Imagine you got such an app of your dreams. What would it absolutely contain? Check all that apply.: Personalized
+    recommendations without going to any specialists, Network of certified trusted
+    nutritionists for online consultation
+  7. Why would you not be interested?: ''
+  8. Imagine you get your dream application. What would it absolutely contain? Check all that apply.: ''
+  8a. Do you enjoy its look and feel?: Overall, yes. It is nice
+  8b. Do you have any recommendations for us to improve the app?: ''
+  9. What are your preferred ways to monitor your health indicators?: Health App tracker
+    on i-phone (or alike)
+  'Thank you so much for your time! ': ''
+  Timestamp: 04/03/2022 19:00:18
+- ? '1. Health is one of the important components of everyone''s life. Depending on
+    the stage of life, health goals can vary significantly. What are your main health
+    aspirations these days? '
+  : Lose weight
+  10. Are you comfortable with doing the necessary tests at home instead of going somewhere for them?  [Other]: ''
+  ? 10. Are you comfortable with doing the necessary tests at home instead of going
+    somewhere for them?  [Saliva (DNA test, hormones)]
+  : Ok to perform self-test
+  ? 10. Are you comfortable with doing the necessary tests at home instead of going
+    somewhere for them?  [Skin swab (Microbiome assessment)]
+  : not comfortable
+  ? 10. Are you comfortable with doing the necessary tests at home instead of going
+    somewhere for them?  [Urine (nutrient needs, sensitivities)]
+  : Ok to perform self-test
+  11. What is the value to you for doing home test? (select all that apply): It saves
+    time, It is private
+  12. Which targets of your personalized diet would you value most?: Fast results
+    addressing current issues
+  13. Please estimate your monthly spending on health (health insurance, doctors, medical tests, nutritionists, supplements, etc).: less
+    than 500 USD
+  '14. What would be your comfortable monthly subscription price for such a dream app. ': Less
+    than 5 USD/month
+  15. Could you please share in what year you were born?: '1962'
+  16. In which country do you live ?: ''
+  ? 17. Are you willing to share your ideas further? We would be delighted to give
+    you 3 months access to our app once it is ready.  Please leave us your email.
+  : Cleonacat@aol.com
+  2. How have you been feeling in the last couple of weeks? What 5 symptoms below, if any, were your main discomfort?: Night
+    sweats, Joint pain
+  ? 3. Whom have you been approaching so far to help you deal with those symptoms?
+    Were you satisfied? [I asked my friends or family ]
+  : ''
+  ? 3. Whom have you been approaching so far to help you deal with those symptoms?
+    Were you satisfied? [I consulted my General Practitioner]
+  : ''
+  ? 3. Whom have you been approaching so far to help you deal with those symptoms?
+    Were you satisfied? [I consulted my gynaecologist]
+  : ''
+  3. Whom have you been approaching so far to help you deal with those symptoms? Were you satisfied? [I consulted my naturopath]: ''
+  ? 3. Whom have you been approaching so far to help you deal with those symptoms?
+    Were you satisfied? [I don't have time for it now]
+  : ''
+  ? 3. Whom have you been approaching so far to help you deal with those symptoms?
+    Were you satisfied? [I informed myself on menopause]
+  : I was satisfied
+  3. Whom have you been approaching so far to help you deal with those symptoms? Were you satisfied? [I started regular sports]: ''
+  3. Whom have you been approaching so far to help you deal with those symptoms? Were you satisfied? [I take food supplements]: ''
+  3. Whom have you been approaching so far to help you deal with those symptoms? Were you satisfied? [I work with a psychologist]: ''
+  4. How do you mainly make decisions about your nutrition and food supplements? Please choose up to three.: I
+    am aware of general healthy ways and try to stick to them
+  5. Did you know that the majority of menopause symptoms could be addressed and resolved with the help of nutrition?: I
+    don't know, I need to read more about it
+  ? 6. We are developing an app to support women in their hormonal journey during
+    menopause. Would you be interested in having such an app?
+  : No
+  7. Imagine you got such an app of your dreams. What would it absolutely contain? Check all that apply.: ''
+  7. Why would you not be interested?: 'Past menopause '
+  8. Imagine you get your dream application. What would it absolutely contain? Check all that apply.: 'Past
+    menopause '
+  8a. Do you enjoy its look and feel?: ''
+  8b. Do you have any recommendations for us to improve the app?: ''
+  9. What are your preferred ways to monitor your health indicators?: Apple watch
+    (or alike)
+  'Thank you so much for your time! ': ''
+  Timestamp: 04/03/2022 19:19:16
+- ? '1. Health is one of the important components of everyone''s life. Depending on
+    the stage of life, health goals can vary significantly. What are your main health
+    aspirations these days? '
+  : Get myself out of a significant health issue, Prepare myself for the upcoming
+    health challenge
+  10. Are you comfortable with doing the necessary tests at home instead of going somewhere for them?  [Other]: ''
+  ? 10. Are you comfortable with doing the necessary tests at home instead of going
+    somewhere for them?  [Saliva (DNA test, hormones)]
+  : Ok to perform self-test
+  ? 10. Are you comfortable with doing the necessary tests at home instead of going
+    somewhere for them?  [Skin swab (Microbiome assessment)]
+  : Ok to perform self-test
+  ? 10. Are you comfortable with doing the necessary tests at home instead of going
+    somewhere for them?  [Urine (nutrient needs, sensitivities)]
+  : Ok to perform self-test
+  11. What is the value to you for doing home test? (select all that apply): It saves
+    time
+  12. Which targets of your personalized diet would you value most?: Clear everyday
+    plan easy to follow, Focus on optimal weight, Advice on healthy recipes
+  13. Please estimate your monthly spending on health (health insurance, doctors, medical tests, nutritionists, supplements, etc).: less
+    than 500 USD
+  '14. What would be your comfortable monthly subscription price for such a dream app. ': Less
+    than 5 USD/month
+  15. Could you please share in what year you were born?: '1979'
+  16. In which country do you live ?: ''
+  ? 17. Are you willing to share your ideas further? We would be delighted to give
+    you 3 months access to our app once it is ready.  Please leave us your email.
+  : marketa.trnecka@gmail.com
+  2. How have you been feeling in the last couple of weeks? What 5 symptoms below, if any, were your main discomfort?: Bloating,
+    Sleep difficulties, Low energy, fatigue, Weight gain, Vaginal dryness
+  ? 3. Whom have you been approaching so far to help you deal with those symptoms?
+    Were you satisfied? [I asked my friends or family ]
+  : ''
+  ? 3. Whom have you been approaching so far to help you deal with those symptoms?
+    Were you satisfied? [I consulted my General Practitioner]
+  : ''
+  ? 3. Whom have you been approaching so far to help you deal with those symptoms?
+    Were you satisfied? [I consulted my gynaecologist]
+  : I was satisfied
+  3. Whom have you been approaching so far to help you deal with those symptoms? Were you satisfied? [I consulted my naturopath]: ''
+  ? 3. Whom have you been approaching so far to help you deal with those symptoms?
+    Were you satisfied? [I don't have time for it now]
+  : ''
+  ? 3. Whom have you been approaching so far to help you deal with those symptoms?
+    Were you satisfied? [I informed myself on menopause]
+  : I was not satisfied
+  3. Whom have you been approaching so far to help you deal with those symptoms? Were you satisfied? [I started regular sports]: I
+    was satisfied
+  3. Whom have you been approaching so far to help you deal with those symptoms? Were you satisfied? [I take food supplements]: I
+    was not satisfied
+  3. Whom have you been approaching so far to help you deal with those symptoms? Were you satisfied? [I work with a psychologist]: ''
+  4. How do you mainly make decisions about your nutrition and food supplements? Please choose up to three.: I
+    am aware of general healthy ways and try to stick to them, I follow advice from
+    my doctors, I read a lot about nutrition and being fit
+  5. Did you know that the majority of menopause symptoms could be addressed and resolved with the help of nutrition?: I
+    don't know, I need to read more about it
+  ? 6. We are developing an app to support women in their hormonal journey during
+    menopause. Would you be interested in having such an app?
+  : Yes
+  7. Imagine you got such an app of your dreams. What would it absolutely contain? Check all that apply.: General
+    recommendations on how to address symptoms of menopause with the help of nutrition,
+    Personalized recommendations without going to any specialists, Network of certified
+    trusted nutritionists for online consultation
+  7. Why would you not be interested?: ''
+  8. Imagine you get your dream application. What would it absolutely contain? Check all that apply.: ''
+  8a. Do you enjoy its look and feel?: Not really, would see room for improvement
+  8b. Do you have any recommendations for us to improve the app?: Visual side is not
+    super attractive
+  9. What are your preferred ways to monitor your health indicators?: Apple watch
+    (or alike)
+  'Thank you so much for your time! ': 'Thank you too! With regards to my answers
+    on monthly spendings, take into account I reside in Czech republic where the medical
+    aid is rather for free. '
+  Timestamp: 04/03/2022 19:29:48
+- ? '1. Health is one of the important components of everyone''s life. Depending on
+    the stage of life, health goals can vary significantly. What are your main health
+    aspirations these days? '
+  : Support myself in an ongoing transformation journey
+  10. Are you comfortable with doing the necessary tests at home instead of going somewhere for them?  [Other]: ''
+  ? 10. Are you comfortable with doing the necessary tests at home instead of going
+    somewhere for them?  [Saliva (DNA test, hormones)]
+  : Ok to perform self-test
+  ? 10. Are you comfortable with doing the necessary tests at home instead of going
+    somewhere for them?  [Skin swab (Microbiome assessment)]
+  : Ok to perform self-test
+  ? 10. Are you comfortable with doing the necessary tests at home instead of going
+    somewhere for them?  [Urine (nutrient needs, sensitivities)]
+  : Ok to perform self-test
+  11. What is the value to you for doing home test? (select all that apply): It saves
+    time
+  12. Which targets of your personalized diet would you value most?: Clear everyday
+    plan easy to follow, Focus on optimal weight
+  13. Please estimate your monthly spending on health (health insurance, doctors, medical tests, nutritionists, supplements, etc).: 750
+    USD - 1000 USD
+  '14. What would be your comfortable monthly subscription price for such a dream app. ': 15-20
+    USD/month
+  15. Could you please share in what year you were born?: '1963'
+  16. In which country do you live ?: ''
+  ? 17. Are you willing to share your ideas further? We would be delighted to give
+    you 3 months access to our app once it is ready.  Please leave us your email.
+  : Ann.ledin.ledin@gmail.com
+  2. How have you been feeling in the last couple of weeks? What 5 symptoms below, if any, were your main discomfort?: Gas,
+    Constipation, Anxiety and/or panic attacks, Loss of skin elasticity, sagging skin,
+    Decreased memory
+  ? 3. Whom have you been approaching so far to help you deal with those symptoms?
+    Were you satisfied? [I asked my friends or family ]
+  : ''
+  ? 3. Whom have you been approaching so far to help you deal with those symptoms?
+    Were you satisfied? [I consulted my General Practitioner]
+  : ''
+  ? 3. Whom have you been approaching so far to help you deal with those symptoms?
+    Were you satisfied? [I consulted my gynaecologist]
+  : ''
+  3. Whom have you been approaching so far to help you deal with those symptoms? Were you satisfied? [I consulted my naturopath]: ''
+  ? 3. Whom have you been approaching so far to help you deal with those symptoms?
+    Were you satisfied? [I don't have time for it now]
+  : ''
+  ? 3. Whom have you been approaching so far to help you deal with those symptoms?
+    Were you satisfied? [I informed myself on menopause]
+  : I was not satisfied
+  3. Whom have you been approaching so far to help you deal with those symptoms? Were you satisfied? [I started regular sports]: ''
+  3. Whom have you been approaching so far to help you deal with those symptoms? Were you satisfied? [I take food supplements]: ''
+  3. Whom have you been approaching so far to help you deal with those symptoms? Were you satisfied? [I work with a psychologist]: ''
+  4. How do you mainly make decisions about your nutrition and food supplements? Please choose up to three.: 'I
+    mostly don’t make conscious decisions and I take some random multivitamin and
+    calcium/magnesium supplement '
+  5. Did you know that the majority of menopause symptoms could be addressed and resolved with the help of nutrition?: I
+    don't know, I need to read more about it
+  ? 6. We are developing an app to support women in their hormonal journey during
+    menopause. Would you be interested in having such an app?
+  : Yes
+  7. Imagine you got such an app of your dreams. What would it absolutely contain? Check all that apply.: General
+    recommendations on how to address symptoms of menopause with the help of nutrition,
+    Personalized recommendations without going to any specialists, One- click purchase
+    of food supplements of trusted brands
+  7. Why would you not be interested?: ''
+  8. Imagine you get your dream application. What would it absolutely contain? Check all that apply.: ''
+  8a. Do you enjoy its look and feel?: Overall, yes. It is nice
+  8b. Do you have any recommendations for us to improve the app?: ''
+  9. What are your preferred ways to monitor your health indicators?: I don't like
+    self-monitoring, prefer to go to a doctor
+  'Thank you so much for your time! ': You’re welcome!
+  Timestamp: 04/03/2022 21:11:04
+- ? '1. Health is one of the important components of everyone''s life. Depending on
+    the stage of life, health goals can vary significantly. What are your main health
+    aspirations these days? '
+  : Support myself in an ongoing transformation journey
+  10. Are you comfortable with doing the necessary tests at home instead of going somewhere for them?  [Other]: ''
+  ? 10. Are you comfortable with doing the necessary tests at home instead of going
+    somewhere for them?  [Saliva (DNA test, hormones)]
+  : Ok to perform self-test
+  ? 10. Are you comfortable with doing the necessary tests at home instead of going
+    somewhere for them?  [Skin swab (Microbiome assessment)]
+  : Ok to perform self-test
+  ? 10. Are you comfortable with doing the necessary tests at home instead of going
+    somewhere for them?  [Urine (nutrient needs, sensitivities)]
+  : Ok to perform self-test
+  11. What is the value to you for doing home test? (select all that apply): It saves
+    time, It is private
+  12. Which targets of your personalized diet would you value most?: Clear everyday
+    plan easy to follow, Fast results addressing current issues, Preventive plan,
+    Focus on optimal weight
+  13. Please estimate your monthly spending on health (health insurance, doctors, medical tests, nutritionists, supplements, etc).: less
+    than 500 USD
+  '14. What would be your comfortable monthly subscription price for such a dream app. ': 5-10
+    USD/month
+  15. Could you please share in what year you were born?: '1968'
+  16. In which country do you live ?: ''
+  ? 17. Are you willing to share your ideas further? We would be delighted to give
+    you 3 months access to our app once it is ready.  Please leave us your email.
+  : ''
+  2. How have you been feeling in the last couple of weeks? What 5 symptoms below, if any, were your main discomfort?: Sleep
+    difficulties, Joint pain, Low energy, fatigue, Bladder pain, frequent urination,
+    Decreased memory
+  ? 3. Whom have you been approaching so far to help you deal with those symptoms?
+    Were you satisfied? [I asked my friends or family ]
+  : ''
+  ? 3. Whom have you been approaching so far to help you deal with those symptoms?
+    Were you satisfied? [I consulted my General Practitioner]
+  : I was satisfied
+  ? 3. Whom have you been approaching so far to help you deal with those symptoms?
+    Were you satisfied? [I consulted my gynaecologist]
+  : ''
+  3. Whom have you been approaching so far to help you deal with those symptoms? Were you satisfied? [I consulted my naturopath]: ''
+  ? 3. Whom have you been approaching so far to help you deal with those symptoms?
+    Were you satisfied? [I don't have time for it now]
+  : ''
+  ? 3. Whom have you been approaching so far to help you deal with those symptoms?
+    Were you satisfied? [I informed myself on menopause]
+  : I was satisfied
+  3. Whom have you been approaching so far to help you deal with those symptoms? Were you satisfied? [I started regular sports]: ''
+  3. Whom have you been approaching so far to help you deal with those symptoms? Were you satisfied? [I take food supplements]: ''
+  3. Whom have you been approaching so far to help you deal with those symptoms? Were you satisfied? [I work with a psychologist]: ''
+  4. How do you mainly make decisions about your nutrition and food supplements? Please choose up to three.: I
+    am aware of general healthy ways and try to stick to them
+  5. Did you know that the majority of menopause symptoms could be addressed and resolved with the help of nutrition?: I
+    don't know, I need to read more about it
+  ? 6. We are developing an app to support women in their hormonal journey during
+    menopause. Would you be interested in having such an app?
+  : No
+  7. Imagine you got such an app of your dreams. What would it absolutely contain? Check all that apply.: ''
+  7. Why would you not be interested?: I do not have symptoms from menopause
+  8. Imagine you get your dream application. What would it absolutely contain? Check all that apply.: General
+    recommendations on how to address symptoms of menopause with the help of nutrition,
+    Personalized recommendations without going to any specialists, One- click purchase
+    of food supplements of trusted brands
+  8a. Do you enjoy its look and feel?: ''
+  8b. Do you have any recommendations for us to improve the app?: ''
+  9. What are your preferred ways to monitor your health indicators?: Apple watch
+    (or alike)
+  'Thank you so much for your time! ': ''
+  Timestamp: 04/03/2022 23:19:31
+- ? '1. Health is one of the important components of everyone''s life. Depending on
+    the stage of life, health goals can vary significantly. What are your main health
+    aspirations these days? '
+  : Support myself in an ongoing transformation journey
+  10. Are you comfortable with doing the necessary tests at home instead of going somewhere for them?  [Other]: ''
+  ? 10. Are you comfortable with doing the necessary tests at home instead of going
+    somewhere for them?  [Saliva (DNA test, hormones)]
+  : Ok to perform self-test
+  ? 10. Are you comfortable with doing the necessary tests at home instead of going
+    somewhere for them?  [Skin swab (Microbiome assessment)]
+  : Ok to perform self-test
+  ? 10. Are you comfortable with doing the necessary tests at home instead of going
+    somewhere for them?  [Urine (nutrient needs, sensitivities)]
+  : Ok to perform self-test
+  11. What is the value to you for doing home test? (select all that apply): 'It saves
+    time, Drs rdvs are a pain to make '
+  12. Which targets of your personalized diet would you value most?: Clear everyday
+    plan easy to follow, Fast results addressing current issues, Focus on optimal
+    weight, Advice on healthy recipes
+  13. Please estimate your monthly spending on health (health insurance, doctors, medical tests, nutritionists, supplements, etc).: 500
+    USD - 750 USD
+  '14. What would be your comfortable monthly subscription price for such a dream app. ': Less
+    than 5 USD/month
+  15. Could you please share in what year you were born?: '1965'
+  16. In which country do you live ?: ''
+  ? 17. Are you willing to share your ideas further? We would be delighted to give
+    you 3 months access to our app once it is ready.  Please leave us your email.
+  : megandaypb@gmail.com
+  2. How have you been feeling in the last couple of weeks? What 5 symptoms below, if any, were your main discomfort?: Sore
+    breasts, Bloating, Gas, Constipation, Hot flashes, Mood swings, Depression, Headaches,
+    Brain fog, Sleep difficulties, Joint pain, Low energy, fatigue, Weight gain, Loss
+    of skin elasticity, sagging skin, Skin wrinkling, Age spots, melasma, Dry skin,
+    Vaginal dryness, Decreased memory
+  ? 3. Whom have you been approaching so far to help you deal with those symptoms?
+    Were you satisfied? [I asked my friends or family ]
+  : I was not satisfied
+  ? 3. Whom have you been approaching so far to help you deal with those symptoms?
+    Were you satisfied? [I consulted my General Practitioner]
+  : I was not satisfied
+  ? 3. Whom have you been approaching so far to help you deal with those symptoms?
+    Were you satisfied? [I consulted my gynaecologist]
+  : I was not satisfied
+  3. Whom have you been approaching so far to help you deal with those symptoms? Were you satisfied? [I consulted my naturopath]: ''
+  ? 3. Whom have you been approaching so far to help you deal with those symptoms?
+    Were you satisfied? [I don't have time for it now]
+  : ''
+  ? 3. Whom have you been approaching so far to help you deal with those symptoms?
+    Were you satisfied? [I informed myself on menopause]
+  : I was not satisfied
+  3. Whom have you been approaching so far to help you deal with those symptoms? Were you satisfied? [I started regular sports]: ''
+  3. Whom have you been approaching so far to help you deal with those symptoms? Were you satisfied? [I take food supplements]: ''
+  3. Whom have you been approaching so far to help you deal with those symptoms? Were you satisfied? [I work with a psychologist]: ''
+  4. How do you mainly make decisions about your nutrition and food supplements? Please choose up to three.: Read
+    articles try to follow
+  5. Did you know that the majority of menopause symptoms could be addressed and resolved with the help of nutrition?: I
+    don't believe it
+  ? 6. We are developing an app to support women in their hormonal journey during
+    menopause. Would you be interested in having such an app?
+  : Yes
+  7. Imagine you got such an app of your dreams. What would it absolutely contain? Check all that apply.: General
+    recommendations on how to address symptoms of menopause with the help of nutrition,
+    Connection with people who are at the same stage in their lives or have just been
+    through it, Personalized recommendations without going to any specialists, Network
+    of certified trusted nutritionists for online consultation, One- click purchase
+    of food supplements of trusted brands, All of the above
+  7. Why would you not be interested?: ''
+  8. Imagine you get your dream application. What would it absolutely contain? Check all that apply.: ''
+  8a. Do you enjoy its look and feel?: Overall, yes. It is nice
+  8b. Do you have any recommendations for us to improve the app?: 'Voice over needs
+    to sound more professional '
+  9. What are your preferred ways to monitor your health indicators?: Health App tracker
+    on i-phone (or alike)
+  'Thank you so much for your time! ': "Good luck \U0001F340 "
+  Timestamp: 04/04/2022 05:41:35
+- ? '1. Health is one of the important components of everyone''s life. Depending on
+    the stage of life, health goals can vary significantly. What are your main health
+    aspirations these days? '
+  : Prepare myself for the upcoming health challenge
+  10. Are you comfortable with doing the necessary tests at home instead of going somewhere for them?  [Other]: ''
+  ? 10. Are you comfortable with doing the necessary tests at home instead of going
+    somewhere for them?  [Saliva (DNA test, hormones)]
+  : Ok to perform self-test
+  ? 10. Are you comfortable with doing the necessary tests at home instead of going
+    somewhere for them?  [Skin swab (Microbiome assessment)]
+  : Ok to perform self-test
+  ? 10. Are you comfortable with doing the necessary tests at home instead of going
+    somewhere for them?  [Urine (nutrient needs, sensitivities)]
+  : Ok to perform self-test
+  11. What is the value to you for doing home test? (select all that apply): It saves
+    time
+  12. Which targets of your personalized diet would you value most?: Fast results
+    addressing current issues, Focus on optimal weight
+  13. Please estimate your monthly spending on health (health insurance, doctors, medical tests, nutritionists, supplements, etc).: 500
+    USD - 750 USD
+  '14. What would be your comfortable monthly subscription price for such a dream app. ': 10-15
+    USD/month
+  15. Could you please share in what year you were born?: '1975'
+  16. In which country do you live ?: ''
+  ? 17. Are you willing to share your ideas further? We would be delighted to give
+    you 3 months access to our app once it is ready.  Please leave us your email.
+  : michaud@mathgen.ch
+  2. How have you been feeling in the last couple of weeks? What 5 symptoms below, if any, were your main discomfort?: Mood
+    swings, Headaches, Sleep difficulties, Skin wrinkling
+  ? 3. Whom have you been approaching so far to help you deal with those symptoms?
+    Were you satisfied? [I asked my friends or family ]
+  : ''
+  ? 3. Whom have you been approaching so far to help you deal with those symptoms?
+    Were you satisfied? [I consulted my General Practitioner]
+  : ''
+  ? 3. Whom have you been approaching so far to help you deal with those symptoms?
+    Were you satisfied? [I consulted my gynaecologist]
+  : ''
+  3. Whom have you been approaching so far to help you deal with those symptoms? Were you satisfied? [I consulted my naturopath]: ''
+  ? 3. Whom have you been approaching so far to help you deal with those symptoms?
+    Were you satisfied? [I don't have time for it now]
+  : ''
+  ? 3. Whom have you been approaching so far to help you deal with those symptoms?
+    Were you satisfied? [I informed myself on menopause]
+  : I was satisfied
+  3. Whom have you been approaching so far to help you deal with those symptoms? Were you satisfied? [I started regular sports]: I
+    was satisfied
+  3. Whom have you been approaching so far to help you deal with those symptoms? Were you satisfied? [I take food supplements]: ''
+  3. Whom have you been approaching so far to help you deal with those symptoms? Were you satisfied? [I work with a psychologist]: ''
+  4. How do you mainly make decisions about your nutrition and food supplements? Please choose up to three.: I
+    only listen to my body and follow its needs, I am aware of general healthy ways
+    and try to stick to them
+  5. Did you know that the majority of menopause symptoms could be addressed and resolved with the help of nutrition?: I
+    don't know, I need to read more about it
+  ? 6. We are developing an app to support women in their hormonal journey during
+    menopause. Would you be interested in having such an app?
+  : Yes
+  7. Imagine you got such an app of your dreams. What would it absolutely contain? Check all that apply.: General
+    recommendations on how to address symptoms of menopause with the help of nutrition,
+    Personalized recommendations without going to any specialists, Network of certified
+    trusted nutritionists for online consultation
+  7. Why would you not be interested?: ''
+  8. Imagine you get your dream application. What would it absolutely contain? Check all that apply.: ''
+  8a. Do you enjoy its look and feel?: Overall, yes. It is nice
+  8b. Do you have any recommendations for us to improve the app?: ''
+  9. What are your preferred ways to monitor your health indicators?: Health App tracker
+    on i-phone (or alike)
+  'Thank you so much for your time! ': ''
+  Timestamp: 04/04/2022 09:00:12
+- ? '1. Health is one of the important components of everyone''s life. Depending on
+    the stage of life, health goals can vary significantly. What are your main health
+    aspirations these days? '
+  : Maintain status quo
+  10. Are you comfortable with doing the necessary tests at home instead of going somewhere for them?  [Other]: ''
+  ? 10. Are you comfortable with doing the necessary tests at home instead of going
+    somewhere for them?  [Saliva (DNA test, hormones)]
+  : Ok to perform self-test
+  ? 10. Are you comfortable with doing the necessary tests at home instead of going
+    somewhere for them?  [Skin swab (Microbiome assessment)]
+  : Ok to perform self-test
+  ? 10. Are you comfortable with doing the necessary tests at home instead of going
+    somewhere for them?  [Urine (nutrient needs, sensitivities)]
+  : Ok to perform self-test
+  11. What is the value to you for doing home test? (select all that apply): It saves
+    time, It is private
+  12. Which targets of your personalized diet would you value most?: Clear everyday
+    plan easy to follow, Fast results addressing current issues, Preventive plan,
+    Focus on optimal weight, Advice on healthy recipes
+  13. Please estimate your monthly spending on health (health insurance, doctors, medical tests, nutritionists, supplements, etc).: less
+    than 500 USD
+  '14. What would be your comfortable monthly subscription price for such a dream app. ': 5-10
+    USD/month
+  15. Could you please share in what year you were born?: '1968'
+  16. In which country do you live ?: ''
+  ? 17. Are you willing to share your ideas further? We would be delighted to give
+    you 3 months access to our app once it is ready.  Please leave us your email.
+  : ''
+  2. How have you been feeling in the last couple of weeks? What 5 symptoms below, if any, were your main discomfort?: Night
+    sweats, Hot flashes, Brain fog, Low energy, fatigue, Weight gain
+  ? 3. Whom have you been approaching so far to help you deal with those symptoms?
+    Were you satisfied? [I asked my friends or family ]
+  : ''
+  ? 3. Whom have you been approaching so far to help you deal with those symptoms?
+    Were you satisfied? [I consulted my General Practitioner]
+  : I was satisfied
+  ? 3. Whom have you been approaching so far to help you deal with those symptoms?
+    Were you satisfied? [I consulted my gynaecologist]
+  : I was satisfied
+  3. Whom have you been approaching so far to help you deal with those symptoms? Were you satisfied? [I consulted my naturopath]: ''
+  ? 3. Whom have you been approaching so far to help you deal with those symptoms?
+    Were you satisfied? [I don't have time for it now]
+  : ''
+  ? 3. Whom have you been approaching so far to help you deal with those symptoms?
+    Were you satisfied? [I informed myself on menopause]
+  : I was satisfied
+  3. Whom have you been approaching so far to help you deal with those symptoms? Were you satisfied? [I started regular sports]: ''
+  3. Whom have you been approaching so far to help you deal with those symptoms? Were you satisfied? [I take food supplements]: I
+    was satisfied
+  3. Whom have you been approaching so far to help you deal with those symptoms? Were you satisfied? [I work with a psychologist]: ''
+  4. How do you mainly make decisions about your nutrition and food supplements? Please choose up to three.: I
+    only listen to my body and follow its needs, I am aware of general healthy ways
+    and try to stick to them, I follow advice from my doctors
+  5. Did you know that the majority of menopause symptoms could be addressed and resolved with the help of nutrition?: I
+    don't know, I need to read more about it
+  ? 6. We are developing an app to support women in their hormonal journey during
+    menopause. Would you be interested in having such an app?
+  : Yes
+  7. Imagine you got such an app of your dreams. What would it absolutely contain? Check all that apply.: General
+    recommendations on how to address symptoms of menopause with the help of nutrition,
+    Personalized recommendations without going to any specialists, Network of certified
+    trusted nutritionists for online consultation
+  7. Why would you not be interested?: ''
+  8. Imagine you get your dream application. What would it absolutely contain? Check all that apply.: ''
+  8a. Do you enjoy its look and feel?: ''
+  8b. Do you have any recommendations for us to improve the app?: ''
+  9. What are your preferred ways to monitor your health indicators?: I don't like
+    self-monitoring, prefer to go to a doctor
+  'Thank you so much for your time! ': ''
+  Timestamp: 04/04/2022 10:23:25
+- ? '1. Health is one of the important components of everyone''s life. Depending on
+    the stage of life, health goals can vary significantly. What are your main health
+    aspirations these days? '
+  : Support myself in an ongoing transformation journey, Prepare myself for the upcoming
+    health challenge
+  10. Are you comfortable with doing the necessary tests at home instead of going somewhere for them?  [Other]: ''
+  ? 10. Are you comfortable with doing the necessary tests at home instead of going
+    somewhere for them?  [Saliva (DNA test, hormones)]
+  : Ok to perform self-test
+  ? 10. Are you comfortable with doing the necessary tests at home instead of going
+    somewhere for them?  [Skin swab (Microbiome assessment)]
+  : Ok to perform self-test
+  ? 10. Are you comfortable with doing the necessary tests at home instead of going
+    somewhere for them?  [Urine (nutrient needs, sensitivities)]
+  : Ok to perform self-test
+  11. What is the value to you for doing home test? (select all that apply): It saves
+    time
+  12. Which targets of your personalized diet would you value most?: Fast results
+    addressing current issues
+  13. Please estimate your monthly spending on health (health insurance, doctors, medical tests, nutritionists, supplements, etc).: less
+    than 500 USD
+  '14. What would be your comfortable monthly subscription price for such a dream app. ': 5-10
+    USD/month
+  15. Could you please share in what year you were born?: '1972'
+  16. In which country do you live ?: ''
+  ? 17. Are you willing to share your ideas further? We would be delighted to give
+    you 3 months access to our app once it is ready.  Please leave us your email.
+  : federica.mariani@gmail.com
+  2. How have you been feeling in the last couple of weeks? What 5 symptoms below, if any, were your main discomfort?: Menstrual
+    cramps, Depression, Anxiety and/or panic attacks, Low energy, fatigue, Skin wrinkling,
+    Age spots, melasma, Vaginal dryness, Decreased memory
+  ? 3. Whom have you been approaching so far to help you deal with those symptoms?
+    Were you satisfied? [I asked my friends or family ]
+  : ''
+  ? 3. Whom have you been approaching so far to help you deal with those symptoms?
+    Were you satisfied? [I consulted my General Practitioner]
+  : I was not satisfied
+  ? 3. Whom have you been approaching so far to help you deal with those symptoms?
+    Were you satisfied? [I consulted my gynaecologist]
+  : I was not satisfied
+  3. Whom have you been approaching so far to help you deal with those symptoms? Were you satisfied? [I consulted my naturopath]: ''
+  ? 3. Whom have you been approaching so far to help you deal with those symptoms?
+    Were you satisfied? [I don't have time for it now]
+  : ''
+  ? 3. Whom have you been approaching so far to help you deal with those symptoms?
+    Were you satisfied? [I informed myself on menopause]
+  : I was satisfied
+  3. Whom have you been approaching so far to help you deal with those symptoms? Were you satisfied? [I started regular sports]: ''
+  3. Whom have you been approaching so far to help you deal with those symptoms? Were you satisfied? [I take food supplements]: I
+    was satisfied
+  3. Whom have you been approaching so far to help you deal with those symptoms? Were you satisfied? [I work with a psychologist]: ''
+  4. How do you mainly make decisions about your nutrition and food supplements? Please choose up to three.: I
+    only listen to my body and follow its needs, I am aware of general healthy ways
+    and try to stick to them
+  5. Did you know that the majority of menopause symptoms could be addressed and resolved with the help of nutrition?: Yes,
+    but I have not noticed this for myself yet
+  ? 6. We are developing an app to support women in their hormonal journey during
+    menopause. Would you be interested in having such an app?
+  : Yes
+  7. Imagine you got such an app of your dreams. What would it absolutely contain? Check all that apply.: General
+    recommendations on how to address symptoms of menopause with the help of nutrition,
+    Personalized recommendations without going to any specialists, Network of certified
+    trusted nutritionists for online consultation
+  7. Why would you not be interested?: ''
+  8. Imagine you get your dream application. What would it absolutely contain? Check all that apply.: ''
+  8a. Do you enjoy its look and feel?: Overall, yes. It is nice
+  8b. Do you have any recommendations for us to improve the app?: "- I would add a
+    sleep tracking or would ask to input sleep time/hours to make sure there is (or
+    not) a sleep schedule/routine;\n- Is sexual life important ? Does it have an impact
+    on symptoms and general mood ? \n- Weight is also a concern at this stage. I would
+    be curious to know if fluctuations can be explained with hormonal patterns. Add
+    a weight tracker ?\n- Workout and gym ? \n- I'm willing to input data on my general
+    feelings/symptoms, not sure I want to spend time also adding daily details on
+    diet and hormones (it sound very time consuming to me)"
+  9. What are your preferred ways to monitor your health indicators?: Health App tracker
+    on i-phone (or alike)
+  'Thank you so much for your time! ': ''
+  Timestamp: 04/04/2022 11:07:32
+- ? '1. Health is one of the important components of everyone''s life. Depending on
+    the stage of life, health goals can vary significantly. What are your main health
+    aspirations these days? '
+  : Support myself in an ongoing transformation journey
+  10. Are you comfortable with doing the necessary tests at home instead of going somewhere for them?  [Other]: ''
+  ? 10. Are you comfortable with doing the necessary tests at home instead of going
+    somewhere for them?  [Saliva (DNA test, hormones)]
+  : Ok to perform self-test
+  ? 10. Are you comfortable with doing the necessary tests at home instead of going
+    somewhere for them?  [Skin swab (Microbiome assessment)]
+  : Ok to perform self-test
+  ? 10. Are you comfortable with doing the necessary tests at home instead of going
+    somewhere for them?  [Urine (nutrient needs, sensitivities)]
+  : Ok to perform self-test
+  11. What is the value to you for doing home test? (select all that apply): It saves
+    time
+  12. Which targets of your personalized diet would you value most?: Clear everyday
+    plan easy to follow, Fast results addressing current issues, Preventive plan,
+    Focus on optimal weight, Advice on healthy recipes
+  13. Please estimate your monthly spending on health (health insurance, doctors, medical tests, nutritionists, supplements, etc).: less
+    than 500 USD
+  '14. What would be your comfortable monthly subscription price for such a dream app. ': 10-15
+    USD/month
+  15. Could you please share in what year you were born?: '1963'
+  16. In which country do you live ?: ''
+  ? 17. Are you willing to share your ideas further? We would be delighted to give
+    you 3 months access to our app once it is ready.  Please leave us your email.
+  : cogie@hotmail.com
+  2. How have you been feeling in the last couple of weeks? What 5 symptoms below, if any, were your main discomfort?: Bloating,
+    Mood swings, Brain fog, Joint pain, Low energy, fatigue
+  ? 3. Whom have you been approaching so far to help you deal with those symptoms?
+    Were you satisfied? [I asked my friends or family ]
+  : I was satisfied
+  ? 3. Whom have you been approaching so far to help you deal with those symptoms?
+    Were you satisfied? [I consulted my General Practitioner]
+  : I was satisfied
+  ? 3. Whom have you been approaching so far to help you deal with those symptoms?
+    Were you satisfied? [I consulted my gynaecologist]
+  : ''
+  3. Whom have you been approaching so far to help you deal with those symptoms? Were you satisfied? [I consulted my naturopath]: ''
+  ? 3. Whom have you been approaching so far to help you deal with those symptoms?
+    Were you satisfied? [I don't have time for it now]
+  : ''
+  ? 3. Whom have you been approaching so far to help you deal with those symptoms?
+    Were you satisfied? [I informed myself on menopause]
+  : I was satisfied
+  3. Whom have you been approaching so far to help you deal with those symptoms? Were you satisfied? [I started regular sports]: I
+    was satisfied
+  3. Whom have you been approaching so far to help you deal with those symptoms? Were you satisfied? [I take food supplements]: ''
+  3. Whom have you been approaching so far to help you deal with those symptoms? Were you satisfied? [I work with a psychologist]: ''
+  4. How do you mainly make decisions about your nutrition and food supplements? Please choose up to three.: I
+    am aware of general healthy ways and try to stick to them
+  5. Did you know that the majority of menopause symptoms could be addressed and resolved with the help of nutrition?: Yes,
+    I have felt the effect on myself
+  ? 6. We are developing an app to support women in their hormonal journey during
+    menopause. Would you be interested in having such an app?
+  : Yes
+  7. Imagine you got such an app of your dreams. What would it absolutely contain? Check all that apply.: General
+    recommendations on how to address symptoms of menopause with the help of nutrition,
+    Connection with people who are at the same stage in their lives or have just been
+    through it, Personalized recommendations without going to any specialists, Network
+    of certified trusted nutritionists for online consultation, One- click purchase
+    of food supplements of trusted brands, All of the above
+  7. Why would you not be interested?: ''
+  8. Imagine you get your dream application. What would it absolutely contain? Check all that apply.: ''
+  8a. Do you enjoy its look and feel?: Overall, yes. It is nice
+  8b. Do you have any recommendations for us to improve the app?: ''
+  9. What are your preferred ways to monitor your health indicators?: Health App tracker
+    on i-phone (or alike)
+  'Thank you so much for your time! ': You are welcome
+  Timestamp: 04/04/2022 12:53:30
+- ? '1. Health is one of the important components of everyone''s life. Depending on
+    the stage of life, health goals can vary significantly. What are your main health
+    aspirations these days? '
+  : Support myself in an ongoing transformation journey, Prepare myself for the upcoming
+    health challenge
+  10. Are you comfortable with doing the necessary tests at home instead of going somewhere for them?  [Other]: ''
+  ? 10. Are you comfortable with doing the necessary tests at home instead of going
+    somewhere for them?  [Saliva (DNA test, hormones)]
+  : Ok to perform self-test
+  ? 10. Are you comfortable with doing the necessary tests at home instead of going
+    somewhere for them?  [Skin swab (Microbiome assessment)]
+  : Ok to perform self-test
+  ? 10. Are you comfortable with doing the necessary tests at home instead of going
+    somewhere for them?  [Urine (nutrient needs, sensitivities)]
+  : Ok to perform self-test
+  11. What is the value to you for doing home test? (select all that apply): It saves
+    time
+  12. Which targets of your personalized diet would you value most?: Clear everyday
+    plan easy to follow, Preventive plan, Focus on optimal weight, Advice on healthy
+    recipes
+  13. Please estimate your monthly spending on health (health insurance, doctors, medical tests, nutritionists, supplements, etc).: 500
+    USD - 750 USD
+  '14. What would be your comfortable monthly subscription price for such a dream app. ': 10-15
+    USD/month
+  15. Could you please share in what year you were born?: '1953'
+  16. In which country do you live ?: CH
+  ? 17. Are you willing to share your ideas further? We would be delighted to give
+    you 3 months access to our app once it is ready.  Please leave us your email.
+  : Germidal@gmail.com
+  2. How have you been feeling in the last couple of weeks? What 5 symptoms below, if any, were your main discomfort?: Sleep
+    difficulties, Weight gain, Allergy
+  ? 3. Whom have you been approaching so far to help you deal with those symptoms?
+    Were you satisfied? [I asked my friends or family ]
+  : ''
+  ? 3. Whom have you been approaching so far to help you deal with those symptoms?
+    Were you satisfied? [I consulted my General Practitioner]
+  : ''
+  ? 3. Whom have you been approaching so far to help you deal with those symptoms?
+    Were you satisfied? [I consulted my gynaecologist]
+  : ''
+  3. Whom have you been approaching so far to help you deal with those symptoms? Were you satisfied? [I consulted my naturopath]: ''
+  ? 3. Whom have you been approaching so far to help you deal with those symptoms?
+    Were you satisfied? [I don't have time for it now]
+  : I was not satisfied
+  ? 3. Whom have you been approaching so far to help you deal with those symptoms?
+    Were you satisfied? [I informed myself on menopause]
+  : ''
+  3. Whom have you been approaching so far to help you deal with those symptoms? Were you satisfied? [I started regular sports]: ''
+  3. Whom have you been approaching so far to help you deal with those symptoms? Were you satisfied? [I take food supplements]: I
+    was satisfied
+  3. Whom have you been approaching so far to help you deal with those symptoms? Were you satisfied? [I work with a psychologist]: ''
+  4. How do you mainly make decisions about your nutrition and food supplements? Please choose up to three.: I
+    am aware of general healthy ways and try to stick to them
+  5. Did you know that the majority of menopause symptoms could be addressed and resolved with the help of nutrition?: I
+    don't know, I need to read more about it
+  ? 6. We are developing an app to support women in their hormonal journey during
+    menopause. Would you be interested in having such an app?
+  : Not sure, I would like to learn more.
+  7. Imagine you got such an app of your dreams. What would it absolutely contain? Check all that apply.: All
+    of the above
+  7. Why would you not be interested?: ''
+  8. Imagine you get your dream application. What would it absolutely contain? Check all that apply.: ''
+  8a. Do you enjoy its look and feel?: Overall, yes. It is nice
+  8b. Do you have any recommendations for us to improve the app?: ''
+  9. What are your preferred ways to monitor your health indicators?: Health App tracker
+    on i-phone (or alike)
+  'Thank you so much for your time! ': ''
+  Timestamp: 04/04/2022 19:24:15
+- ? '1. Health is one of the important components of everyone''s life. Depending on
+    the stage of life, health goals can vary significantly. What are your main health
+    aspirations these days? '
+  : Support myself in an ongoing transformation journey
+  10. Are you comfortable with doing the necessary tests at home instead of going somewhere for them?  [Other]: Ok
+    to perform self-test
+  ? 10. Are you comfortable with doing the necessary tests at home instead of going
+    somewhere for them?  [Saliva (DNA test, hormones)]
+  : Ok to perform self-test
+  ? 10. Are you comfortable with doing the necessary tests at home instead of going
+    somewhere for them?  [Skin swab (Microbiome assessment)]
+  : Ok to perform self-test
+  ? 10. Are you comfortable with doing the necessary tests at home instead of going
+    somewhere for them?  [Urine (nutrient needs, sensitivities)]
+  : Ok to perform self-test
+  11. What is the value to you for doing home test? (select all that apply): It saves
+    time, It is private
+  12. Which targets of your personalized diet would you value most?: Clear everyday
+    plan easy to follow, Advice on healthy recipes
+  13. Please estimate your monthly spending on health (health insurance, doctors, medical tests, nutritionists, supplements, etc).: 500
+    USD - 750 USD
+  '14. What would be your comfortable monthly subscription price for such a dream app. ': 10-15
+    USD/month
+  15. Could you please share in what year you were born?: '1982'
+  16. In which country do you live ?: USA
+  ? 17. Are you willing to share your ideas further? We would be delighted to give
+    you 3 months access to our app once it is ready.  Please leave us your email.
+  : Ytulier@yahoo.com
+  2. How have you been feeling in the last couple of weeks? What 5 symptoms below, if any, were your main discomfort?: Low
+    energy, fatigue, Bladder pain, frequent urination, Loss of skin elasticity, sagging
+    skin, Vaginal dryness
+  ? 3. Whom have you been approaching so far to help you deal with those symptoms?
+    Were you satisfied? [I asked my friends or family ]
+  : ''
+  ? 3. Whom have you been approaching so far to help you deal with those symptoms?
+    Were you satisfied? [I consulted my General Practitioner]
+  : I was not satisfied
+  ? 3. Whom have you been approaching so far to help you deal with those symptoms?
+    Were you satisfied? [I consulted my gynaecologist]
+  : I was not satisfied
+  3. Whom have you been approaching so far to help you deal with those symptoms? Were you satisfied? [I consulted my naturopath]: ''
+  ? 3. Whom have you been approaching so far to help you deal with those symptoms?
+    Were you satisfied? [I don't have time for it now]
+  : ''
+  ? 3. Whom have you been approaching so far to help you deal with those symptoms?
+    Were you satisfied? [I informed myself on menopause]
+  : I was not satisfied
+  3. Whom have you been approaching so far to help you deal with those symptoms? Were you satisfied? [I started regular sports]: ''
+  3. Whom have you been approaching so far to help you deal with those symptoms? Were you satisfied? [I take food supplements]: I
+    was not satisfied
+  3. Whom have you been approaching so far to help you deal with those symptoms? Were you satisfied? [I work with a psychologist]: ''
+  4. How do you mainly make decisions about your nutrition and food supplements? Please choose up to three.: I
+    only listen to my body and follow its needs, I am aware of general healthy ways
+    and try to stick to them, Books by doctors and/or nutritionist
+  5. Did you know that the majority of menopause symptoms could be addressed and resolved with the help of nutrition?: Yes,
+    but I have not noticed this for myself yet
+  ? 6. We are developing an app to support women in their hormonal journey during
+    menopause. Would you be interested in having such an app?
+  : Yes
+  7. Imagine you got such an app of your dreams. What would it absolutely contain? Check all that apply.: All
+    of the above
+  7. Why would you not be interested?: ''
+  8. Imagine you get your dream application. What would it absolutely contain? Check all that apply.: ''
+  8a. Do you enjoy its look and feel?: 'Yes its really nice. I think the only thing
+    that got me was when you changed the colors of the buttons to green and red it
+    started not to feel cohesive. '
+  8b. Do you have any recommendations for us to improve the app?: 'I think its a great
+    start. '
+  9. What are your preferred ways to monitor your health indicators?: Health App tracker
+    on i-phone (or alike)
+  'Thank you so much for your time! ': ''
+  Timestamp: 04/05/2022 01:25:13
+- ? '1. Health is one of the important components of everyone''s life. Depending on
+    the stage of life, health goals can vary significantly. What are your main health
+    aspirations these days? '
+  : Support myself in an ongoing transformation journey
+  10. Are you comfortable with doing the necessary tests at home instead of going somewhere for them?  [Other]: not
+    comfortable
+  ? 10. Are you comfortable with doing the necessary tests at home instead of going
+    somewhere for them?  [Saliva (DNA test, hormones)]
+  : not comfortable
+  ? 10. Are you comfortable with doing the necessary tests at home instead of going
+    somewhere for them?  [Skin swab (Microbiome assessment)]
+  : not comfortable
+  ? 10. Are you comfortable with doing the necessary tests at home instead of going
+    somewhere for them?  [Urine (nutrient needs, sensitivities)]
+  : not comfortable
+  11. What is the value to you for doing home test? (select all that apply): It is
+    private
+  12. Which targets of your personalized diet would you value most?: Clear everyday
+    plan easy to follow, Advice on healthy recipes
+  13. Please estimate your monthly spending on health (health insurance, doctors, medical tests, nutritionists, supplements, etc).: less
+    than 500 USD
+  '14. What would be your comfortable monthly subscription price for such a dream app. ': 10-15
+    USD/month
+  15. Could you please share in what year you were born?: '1971'
+  16. In which country do you live ?: 'Switzerland '
+  ? 17. Are you willing to share your ideas further? We would be delighted to give
+    you 3 months access to our app once it is ready.  Please leave us your email.
+  : ''
+  2. How have you been feeling in the last couple of weeks? What 5 symptoms below, if any, were your main discomfort?: Headaches,
+    Sleep difficulties, Low energy, fatigue, Loss of skin elasticity, sagging skin,
+    Dry mouth
+  ? 3. Whom have you been approaching so far to help you deal with those symptoms?
+    Were you satisfied? [I asked my friends or family ]
+  : ''
+  ? 3. Whom have you been approaching so far to help you deal with those symptoms?
+    Were you satisfied? [I consulted my General Practitioner]
+  : ''
+  ? 3. Whom have you been approaching so far to help you deal with those symptoms?
+    Were you satisfied? [I consulted my gynaecologist]
+  : I was satisfied
+  3. Whom have you been approaching so far to help you deal with those symptoms? Were you satisfied? [I consulted my naturopath]: ''
+  ? 3. Whom have you been approaching so far to help you deal with those symptoms?
+    Were you satisfied? [I don't have time for it now]
+  : ''
+  ? 3. Whom have you been approaching so far to help you deal with those symptoms?
+    Were you satisfied? [I informed myself on menopause]
+  : I was satisfied
+  3. Whom have you been approaching so far to help you deal with those symptoms? Were you satisfied? [I started regular sports]: I
+    was satisfied
+  3. Whom have you been approaching so far to help you deal with those symptoms? Were you satisfied? [I take food supplements]: I
+    was satisfied
+  3. Whom have you been approaching so far to help you deal with those symptoms? Were you satisfied? [I work with a psychologist]: ''
+  4. How do you mainly make decisions about your nutrition and food supplements? Please choose up to three.: I
+    am aware of general healthy ways and try to stick to them
+  5. Did you know that the majority of menopause symptoms could be addressed and resolved with the help of nutrition?: I
+    don't know, I need to read more about it
+  ? 6. We are developing an app to support women in their hormonal journey during
+    menopause. Would you be interested in having such an app?
+  : Not sure, I would like to learn more.
+  7. Imagine you got such an app of your dreams. What would it absolutely contain? Check all that apply.: General
+    recommendations on how to address symptoms of menopause with the help of nutrition,
+    Personalized recommendations without going to any specialists, Network of certified
+    trusted nutritionists for online consultation
+  7. Why would you not be interested?: ''
+  8. Imagine you get your dream application. What would it absolutely contain? Check all that apply.: ''
+  8a. Do you enjoy its look and feel?: Not really, would see room for improvement
+  8b. Do you have any recommendations for us to improve the app?: 'Don''t like the
+    beige background.  I use the lifesum app and like the look and feel.   '
+  9. What are your preferred ways to monitor your health indicators?: Health App tracker
+    on i-phone (or alike)
+  'Thank you so much for your time! ': ''
+  Timestamp: 04/05/2022 22:20:11
+- ? '1. Health is one of the important components of everyone''s life. Depending on
+    the stage of life, health goals can vary significantly. What are your main health
+    aspirations these days? '
+  : Get myself out of a significant health issue
+  10. Are you comfortable with doing the necessary tests at home instead of going somewhere for them?  [Other]: not
+    comfortable
+  ? 10. Are you comfortable with doing the necessary tests at home instead of going
+    somewhere for them?  [Saliva (DNA test, hormones)]
+  : not comfortable
+  ? 10. Are you comfortable with doing the necessary tests at home instead of going
+    somewhere for them?  [Skin swab (Microbiome assessment)]
+  : not comfortable
+  ? 10. Are you comfortable with doing the necessary tests at home instead of going
+    somewhere for them?  [Urine (nutrient needs, sensitivities)]
+  : not comfortable
+  11. What is the value to you for doing home test? (select all that apply): It saves
+    time
+  12. Which targets of your personalized diet would you value most?: Clear everyday
+    plan easy to follow, Preventive plan
+  13. Please estimate your monthly spending on health (health insurance, doctors, medical tests, nutritionists, supplements, etc).: 500
+    USD - 750 USD
+  '14. What would be your comfortable monthly subscription price for such a dream app. ': 5-10
+    USD/month
+  15. Could you please share in what year you were born?: '1969'
+  16. In which country do you live ?: Switzerland
+  ? 17. Are you willing to share your ideas further? We would be delighted to give
+    you 3 months access to our app once it is ready.  Please leave us your email.
+  : uschi9393@gmail.com
+  2. How have you been feeling in the last couple of weeks? What 5 symptoms below, if any, were your main discomfort?: Bloating,
+    Gas, Constipation, Mood swings, Sleep difficulties, Low energy, fatigue, Weight
+    gain, Skin wrinkling
+  ? 3. Whom have you been approaching so far to help you deal with those symptoms?
+    Were you satisfied? [I asked my friends or family ]
+  : ''
+  ? 3. Whom have you been approaching so far to help you deal with those symptoms?
+    Were you satisfied? [I consulted my General Practitioner]
+  : ''
+  ? 3. Whom have you been approaching so far to help you deal with those symptoms?
+    Were you satisfied? [I consulted my gynaecologist]
+  : ''
+  3. Whom have you been approaching so far to help you deal with those symptoms? Were you satisfied? [I consulted my naturopath]: I
+    was satisfied
+  ? 3. Whom have you been approaching so far to help you deal with those symptoms?
+    Were you satisfied? [I don't have time for it now]
+  : ''
+  ? 3. Whom have you been approaching so far to help you deal with those symptoms?
+    Were you satisfied? [I informed myself on menopause]
+  : ''
+  3. Whom have you been approaching so far to help you deal with those symptoms? Were you satisfied? [I started regular sports]: I
+    was satisfied
+  3. Whom have you been approaching so far to help you deal with those symptoms? Were you satisfied? [I take food supplements]: I
+    was satisfied
+  3. Whom have you been approaching so far to help you deal with those symptoms? Were you satisfied? [I work with a psychologist]: ''
+  4. How do you mainly make decisions about your nutrition and food supplements? Please choose up to three.: I
+    only listen to my body and follow its needs, I am aware of general healthy ways
+    and try to stick to them, I consulted a nutritionist and have a personalized plan
+    to follow, I follow advice from my doctors, I ask for advice when in the pharmacy
+  5. Did you know that the majority of menopause symptoms could be addressed and resolved with the help of nutrition?: ''
+  ? 6. We are developing an app to support women in their hormonal journey during
+    menopause. Would you be interested in having such an app?
+  : No
+  7. Imagine you got such an app of your dreams. What would it absolutely contain? Check all that apply.: ''
+  7. Why would you not be interested?: I have all the help I need already
+  8. Imagine you get your dream application. What would it absolutely contain? Check all that apply.: General
+    recommendations on how to address symptoms of menopause with the help of nutrition
+  8a. Do you enjoy its look and feel?: ''
+  8b. Do you have any recommendations for us to improve the app?: ''
+  9. What are your preferred ways to monitor your health indicators?: I don't like
+    self-monitoring, prefer to go to a doctor
+  'Thank you so much for your time! ': 'I don''t have any classic menopause symptoms,
+    but I have a lot of intollerances and am interested in healthy eating , but anyway
+    thank you for for helping women in the menopause with healthy food. '
+  Timestamp: 04/06/2022 12:48:26
+- ? '1. Health is one of the important components of everyone''s life. Depending on
+    the stage of life, health goals can vary significantly. What are your main health
+    aspirations these days? '
+  : Maintain status quo
+  10. Are you comfortable with doing the necessary tests at home instead of going somewhere for them?  [Other]: ''
+  ? 10. Are you comfortable with doing the necessary tests at home instead of going
+    somewhere for them?  [Saliva (DNA test, hormones)]
+  : not comfortable
+  ? 10. Are you comfortable with doing the necessary tests at home instead of going
+    somewhere for them?  [Skin swab (Microbiome assessment)]
+  : not comfortable
+  ? 10. Are you comfortable with doing the necessary tests at home instead of going
+    somewhere for them?  [Urine (nutrient needs, sensitivities)]
+  : not comfortable
+  11. What is the value to you for doing home test? (select all that apply): ''
+  12. Which targets of your personalized diet would you value most?: Advice on healthy
+    recipes
+  13. Please estimate your monthly spending on health (health insurance, doctors, medical tests, nutritionists, supplements, etc).: less
+    than 500 USD
+  '14. What would be your comfortable monthly subscription price for such a dream app. ': Less
+    than 5 USD/month
+  15. Could you please share in what year you were born?: '1978'
+  16. In which country do you live ?: Switzerland
+  ? 17. Are you willing to share your ideas further? We would be delighted to give
+    you 3 months access to our app once it is ready.  Please leave us your email.
+  : ''
+  2. How have you been feeling in the last couple of weeks? What 5 symptoms below, if any, were your main discomfort?: None
+    of the above
+  ? 3. Whom have you been approaching so far to help you deal with those symptoms?
+    Were you satisfied? [I asked my friends or family ]
+  : ''
+  ? 3. Whom have you been approaching so far to help you deal with those symptoms?
+    Were you satisfied? [I consulted my General Practitioner]
+  : ''
+  ? 3. Whom have you been approaching so far to help you deal with those symptoms?
+    Were you satisfied? [I consulted my gynaecologist]
+  : ''
+  3. Whom have you been approaching so far to help you deal with those symptoms? Were you satisfied? [I consulted my naturopath]: I
+    was satisfied
+  ? 3. Whom have you been approaching so far to help you deal with those symptoms?
+    Were you satisfied? [I don't have time for it now]
+  : ''
+  ? 3. Whom have you been approaching so far to help you deal with those symptoms?
+    Were you satisfied? [I informed myself on menopause]
+  : ''
+  3. Whom have you been approaching so far to help you deal with those symptoms? Were you satisfied? [I started regular sports]: I
+    was satisfied
+  3. Whom have you been approaching so far to help you deal with those symptoms? Were you satisfied? [I take food supplements]: I
+    was satisfied
+  3. Whom have you been approaching so far to help you deal with those symptoms? Were you satisfied? [I work with a psychologist]: ''
+  4. How do you mainly make decisions about your nutrition and food supplements? Please choose up to three.: I
+    only listen to my body and follow its needs, Tramite operatore in biorisonanza
+  5. Did you know that the majority of menopause symptoms could be addressed and resolved with the help of nutrition?: ''
+  ? 6. We are developing an app to support women in their hormonal journey during
+    menopause. Would you be interested in having such an app?
+  : No
+  7. Imagine you got such an app of your dreams. What would it absolutely contain? Check all that apply.: ''
+  7. Why would you not be interested?: I do not use apps
+  8. Imagine you get your dream application. What would it absolutely contain? Check all that apply.: ''
+  8a. Do you enjoy its look and feel?: ''
+  8b. Do you have any recommendations for us to improve the app?: ''
+  9. What are your preferred ways to monitor your health indicators?: I don't like
+    self-monitoring, prefer to go to a doctor
+  'Thank you so much for your time! ': ''
+  Timestamp: 04/06/2022 13:33:23
+- ? '1. Health is one of the important components of everyone''s life. Depending on
+    the stage of life, health goals can vary significantly. What are your main health
+    aspirations these days? '
+  : Maintain status quo
+  10. Are you comfortable with doing the necessary tests at home instead of going somewhere for them?  [Other]: ''
+  ? 10. Are you comfortable with doing the necessary tests at home instead of going
+    somewhere for them?  [Saliva (DNA test, hormones)]
+  : Ok to perform self-test
+  ? 10. Are you comfortable with doing the necessary tests at home instead of going
+    somewhere for them?  [Skin swab (Microbiome assessment)]
+  : Ok to perform self-test
+  ? 10. Are you comfortable with doing the necessary tests at home instead of going
+    somewhere for them?  [Urine (nutrient needs, sensitivities)]
+  : Ok to perform self-test
+  11. What is the value to you for doing home test? (select all that apply): It saves
+    time
+  12. Which targets of your personalized diet would you value most?: Clear everyday
+    plan easy to follow, Advice on healthy recipes
+  13. Please estimate your monthly spending on health (health insurance, doctors, medical tests, nutritionists, supplements, etc).: 500
+    USD - 750 USD
+  '14. What would be your comfortable monthly subscription price for such a dream app. ': 5-10
+    USD/month
+  15. Could you please share in what year you were born?: '1964'
+  16. In which country do you live ?: Switzerland
+  ? 17. Are you willing to share your ideas further? We would be delighted to give
+    you 3 months access to our app once it is ready.  Please leave us your email.
+  : ''
+  2. How have you been feeling in the last couple of weeks? What 5 symptoms below, if any, were your main discomfort?: Low
+    energy, fatigue, Vaginal dryness
+  ? 3. Whom have you been approaching so far to help you deal with those symptoms?
+    Were you satisfied? [I asked my friends or family ]
+  : ''
+  ? 3. Whom have you been approaching so far to help you deal with those symptoms?
+    Were you satisfied? [I consulted my General Practitioner]
+  : ''
+  ? 3. Whom have you been approaching so far to help you deal with those symptoms?
+    Were you satisfied? [I consulted my gynaecologist]
+  : I was not satisfied
+  3. Whom have you been approaching so far to help you deal with those symptoms? Were you satisfied? [I consulted my naturopath]: ''
+  ? 3. Whom have you been approaching so far to help you deal with those symptoms?
+    Were you satisfied? [I don't have time for it now]
+  : I was satisfied
+  ? 3. Whom have you been approaching so far to help you deal with those symptoms?
+    Were you satisfied? [I informed myself on menopause]
+  : ''
+  3. Whom have you been approaching so far to help you deal with those symptoms? Were you satisfied? [I started regular sports]: ''
+  3. Whom have you been approaching so far to help you deal with those symptoms? Were you satisfied? [I take food supplements]: ''
+  3. Whom have you been approaching so far to help you deal with those symptoms? Were you satisfied? [I work with a psychologist]: ''
+  4. How do you mainly make decisions about your nutrition and food supplements? Please choose up to three.: I
+    only listen to my body and follow its needs, I am aware of general healthy ways
+    and try to stick to them
+  5. Did you know that the majority of menopause symptoms could be addressed and resolved with the help of nutrition?: I
+    don't know, I need to read more about it
+  ? 6. We are developing an app to support women in their hormonal journey during
+    menopause. Would you be interested in having such an app?
+  : Yes
+  7. Imagine you got such an app of your dreams. What would it absolutely contain? Check all that apply.: General
+    recommendations on how to address symptoms of menopause with the help of nutrition
+  7. Why would you not be interested?: ''
+  8. Imagine you get your dream application. What would it absolutely contain? Check all that apply.: ''
+  8a. Do you enjoy its look and feel?: Overall, yes. It is nice
+  8b. Do you have any recommendations for us to improve the app?: ''
+  9. What are your preferred ways to monitor your health indicators?: I trust my body
+    and listen to it and only when necessary, I go to my doctor
+  'Thank you so much for your time! ': ''
+  Timestamp: 04/06/2022 23:18:32
+- ? '1. Health is one of the important components of everyone''s life. Depending on
+    the stage of life, health goals can vary significantly. What are your main health
+    aspirations these days? '
+  : Maintain status quo, Get myself out of a significant health issue
+  10. Are you comfortable with doing the necessary tests at home instead of going somewhere for them?  [Other]: ''
+  ? 10. Are you comfortable with doing the necessary tests at home instead of going
+    somewhere for them?  [Saliva (DNA test, hormones)]
+  : Ok to perform self-test
+  ? 10. Are you comfortable with doing the necessary tests at home instead of going
+    somewhere for them?  [Skin swab (Microbiome assessment)]
+  : Ok to perform self-test
+  ? 10. Are you comfortable with doing the necessary tests at home instead of going
+    somewhere for them?  [Urine (nutrient needs, sensitivities)]
+  : Ok to perform self-test
+  11. What is the value to you for doing home test? (select all that apply): It saves
+    time, It is private
+  12. Which targets of your personalized diet would you value most?: Clear everyday
+    plan easy to follow
+  13. Please estimate your monthly spending on health (health insurance, doctors, medical tests, nutritionists, supplements, etc).: less
+    than 500 USD
+  '14. What would be your comfortable monthly subscription price for such a dream app. ': Less
+    than 5 USD/month
+  15. Could you please share in what year you were born?: '1956'
+  16. In which country do you live ?: Italy
+  ? 17. Are you willing to share your ideas further? We would be delighted to give
+    you 3 months access to our app once it is ready.  Please leave us your email.
+  : shuku@global.t-bird.edu
+  2. How have you been feeling in the last couple of weeks? What 5 symptoms below, if any, were your main discomfort?: Brain
+    fog, Dry mouth, Decreased memory
+  ? 3. Whom have you been approaching so far to help you deal with those symptoms?
+    Were you satisfied? [I asked my friends or family ]
+  : ''
+  ? 3. Whom have you been approaching so far to help you deal with those symptoms?
+    Were you satisfied? [I consulted my General Practitioner]
+  : I was satisfied
+  ? 3. Whom have you been approaching so far to help you deal with those symptoms?
+    Were you satisfied? [I consulted my gynaecologist]
+  : I was satisfied
+  3. Whom have you been approaching so far to help you deal with those symptoms? Were you satisfied? [I consulted my naturopath]: ''
+  ? 3. Whom have you been approaching so far to help you deal with those symptoms?
+    Were you satisfied? [I don't have time for it now]
+  : ''
+  ? 3. Whom have you been approaching so far to help you deal with those symptoms?
+    Were you satisfied? [I informed myself on menopause]
+  : ''
+  3. Whom have you been approaching so far to help you deal with those symptoms? Were you satisfied? [I started regular sports]: ''
+  3. Whom have you been approaching so far to help you deal with those symptoms? Were you satisfied? [I take food supplements]: ''
+  3. Whom have you been approaching so far to help you deal with those symptoms? Were you satisfied? [I work with a psychologist]: ''
+  4. How do you mainly make decisions about your nutrition and food supplements? Please choose up to three.: I
+    inform myself through internet
+  5. Did you know that the majority of menopause symptoms could be addressed and resolved with the help of nutrition?: I
+    don't know, I need to read more about it
+  ? 6. We are developing an app to support women in their hormonal journey during
+    menopause. Would you be interested in having such an app?
+  : Not sure, I would like to learn more.
+  7. Imagine you got such an app of your dreams. What would it absolutely contain? Check all that apply.: General
+    recommendations on how to address symptoms of menopause with the help of nutrition
+  7. Why would you not be interested?: ''
+  8. Imagine you get your dream application. What would it absolutely contain? Check all that apply.: ''
+  8a. Do you enjoy its look and feel?: Overall, yes. It is nice
+  8b. Do you have any recommendations for us to improve the app?: It gets a bit boring.
+    Add background music / animation ?
+  9. What are your preferred ways to monitor your health indicators?: Health App tracker
+    on i-phone (or alike)
+  'Thank you so much for your time! ': 'Welcome '
+  Timestamp: 04/07/2022 08:36:00
+- ? '1. Health is one of the important components of everyone''s life. Depending on
+    the stage of life, health goals can vary significantly. What are your main health
+    aspirations these days? '
+  : Maintain status quo, Prepare myself for the upcoming health challenge
+  10. Are you comfortable with doing the necessary tests at home instead of going somewhere for them?  [Other]: Ok
+    to perform self-test
+  ? 10. Are you comfortable with doing the necessary tests at home instead of going
+    somewhere for them?  [Saliva (DNA test, hormones)]
+  : ''
+  ? 10. Are you comfortable with doing the necessary tests at home instead of going
+    somewhere for them?  [Skin swab (Microbiome assessment)]
+  : ''
+  ? 10. Are you comfortable with doing the necessary tests at home instead of going
+    somewhere for them?  [Urine (nutrient needs, sensitivities)]
+  : ''
+  11. What is the value to you for doing home test? (select all that apply): It saves
+    time, serve se poi v letto da un medico
+  12. Which targets of your personalized diet would you value most?: Clear everyday
+    plan easy to follow, Advice on healthy recipes
+  13. Please estimate your monthly spending on health (health insurance, doctors, medical tests, nutritionists, supplements, etc).: 500
+    USD - 750 USD
+  '14. What would be your comfortable monthly subscription price for such a dream app. ': ''
+  15. Could you please share in what year you were born?: '1949'
+  16. In which country do you live ?: Svizzera
+  ? 17. Are you willing to share your ideas further? We would be delighted to give
+    you 3 months access to our app once it is ready.  Please leave us your email.
+  : mariejo49@yahoo.it
+  2. How have you been feeling in the last couple of weeks? What 5 symptoms below, if any, were your main discomfort?: Gas,
+    Joint pain, Low energy, fatigue
+  ? 3. Whom have you been approaching so far to help you deal with those symptoms?
+    Were you satisfied? [I asked my friends or family ]
+  : ''
+  ? 3. Whom have you been approaching so far to help you deal with those symptoms?
+    Were you satisfied? [I consulted my General Practitioner]
+  : ''
+  ? 3. Whom have you been approaching so far to help you deal with those symptoms?
+    Were you satisfied? [I consulted my gynaecologist]
+  : ''
+  3. Whom have you been approaching so far to help you deal with those symptoms? Were you satisfied? [I consulted my naturopath]: ''
+  ? 3. Whom have you been approaching so far to help you deal with those symptoms?
+    Were you satisfied? [I don't have time for it now]
+  : ''
+  ? 3. Whom have you been approaching so far to help you deal with those symptoms?
+    Were you satisfied? [I informed myself on menopause]
+  : ''
+  3. Whom have you been approaching so far to help you deal with those symptoms? Were you satisfied? [I started regular sports]: ''
+  3. Whom have you been approaching so far to help you deal with those symptoms? Were you satisfied? [I take food supplements]: ''
+  3. Whom have you been approaching so far to help you deal with those symptoms? Were you satisfied? [I work with a psychologist]: ''
+  4. How do you mainly make decisions about your nutrition and food supplements? Please choose up to three.: I
+    only listen to my body and follow its needs, I am aware of general healthy ways
+    and try to stick to them
+  5. Did you know that the majority of menopause symptoms could be addressed and resolved with the help of nutrition?: ''
+  ? 6. We are developing an app to support women in their hormonal journey during
+    menopause. Would you be interested in having such an app?
+  : No
+  7. Imagine you got such an app of your dreams. What would it absolutely contain? Check all that apply.: ''
+  7. Why would you not be interested?: 'ho superato il momento della menopausa e,
+    per fortuna non ho avuto problemi, anzi non me ne sono accorta. '
+  8. Imagine you get your dream application. What would it absolutely contain? Check all that apply.: 'se
+    i sintomi portano ad una cattiva qualità di vita direi di parlarne bene con il
+    proprio ginecologo. Parlaren ,anche con un pochino di ironia, con chi vive lo
+    stesso momento fa bene. '
+  8a. Do you enjoy its look and feel?: ''
+  8b. Do you have any recommendations for us to improve the app?: ''
+  9. What are your preferred ways to monitor your health indicators?: I don't like
+    self-monitoring, prefer to go to a doctor
+  'Thank you so much for your time! ': Auguri per la ricerca
+  Timestamp: 04/07/2022 11:33:07
+- ? '1. Health is one of the important components of everyone''s life. Depending on
+    the stage of life, health goals can vary significantly. What are your main health
+    aspirations these days? '
+  : Maintain status quo
+  10. Are you comfortable with doing the necessary tests at home instead of going somewhere for them?  [Other]: ''
+  ? 10. Are you comfortable with doing the necessary tests at home instead of going
+    somewhere for them?  [Saliva (DNA test, hormones)]
+  : ''
+  ? 10. Are you comfortable with doing the necessary tests at home instead of going
+    somewhere for them?  [Skin swab (Microbiome assessment)]
+  : ''
+  ? 10. Are you comfortable with doing the necessary tests at home instead of going
+    somewhere for them?  [Urine (nutrient needs, sensitivities)]
+  : ''
+  11. What is the value to you for doing home test? (select all that apply): ''
+  12. Which targets of your personalized diet would you value most?: Advice on healthy
+    recipes
+  13. Please estimate your monthly spending on health (health insurance, doctors, medical tests, nutritionists, supplements, etc).: less
+    than 500 USD
+  '14. What would be your comfortable monthly subscription price for such a dream app. ': ''
+  15. Could you please share in what year you were born?: '1963'
+  16. In which country do you live ?: Switzerland
+  ? 17. Are you willing to share your ideas further? We would be delighted to give
+    you 3 months access to our app once it is ready.  Please leave us your email.
+  : ''
+  2. How have you been feeling in the last couple of weeks? What 5 symptoms below, if any, were your main discomfort?: Headaches
+  ? 3. Whom have you been approaching so far to help you deal with those symptoms?
+    Were you satisfied? [I asked my friends or family ]
+  : ''
+  ? 3. Whom have you been approaching so far to help you deal with those symptoms?
+    Were you satisfied? [I consulted my General Practitioner]
+  : ''
+  ? 3. Whom have you been approaching so far to help you deal with those symptoms?
+    Were you satisfied? [I consulted my gynaecologist]
+  : ''
+  3. Whom have you been approaching so far to help you deal with those symptoms? Were you satisfied? [I consulted my naturopath]: ''
+  ? 3. Whom have you been approaching so far to help you deal with those symptoms?
+    Were you satisfied? [I don't have time for it now]
+  : ''
+  ? 3. Whom have you been approaching so far to help you deal with those symptoms?
+    Were you satisfied? [I informed myself on menopause]
+  : ''
+  3. Whom have you been approaching so far to help you deal with those symptoms? Were you satisfied? [I started regular sports]: ''
+  3. Whom have you been approaching so far to help you deal with those symptoms? Were you satisfied? [I take food supplements]: ''
+  3. Whom have you been approaching so far to help you deal with those symptoms? Were you satisfied? [I work with a psychologist]: ''
+  4. How do you mainly make decisions about your nutrition and food supplements? Please choose up to three.: I
+    only listen to my body and follow its needs, I am aware of general healthy ways
+    and try to stick to them
+  5. Did you know that the majority of menopause symptoms could be addressed and resolved with the help of nutrition?: I
+    don't know, I need to read more about it
+  ? 6. We are developing an app to support women in their hormonal journey during
+    menopause. Would you be interested in having such an app?
+  : No
+  7. Imagine you got such an app of your dreams. What would it absolutely contain? Check all that apply.: ''
+  7. Why would you not be interested?: I do not use apps
+  8. Imagine you get your dream application. What would it absolutely contain? Check all that apply.: General
+    recommendations on how to address symptoms of menopause with the help of nutrition,
+    Personalized recommendations without going to any specialists
+  8a. Do you enjoy its look and feel?: ''
+  8b. Do you have any recommendations for us to improve the app?: ''
+  9. What are your preferred ways to monitor your health indicators?: I don't like
+    self-monitoring, prefer to go to a doctor
+  'Thank you so much for your time! ': you are welcome
+  Timestamp: 04/07/2022 14:57:06
+- ? '1. Health is one of the important components of everyone''s life. Depending on
+    the stage of life, health goals can vary significantly. What are your main health
+    aspirations these days? '
+  : Support myself in an ongoing transformation journey
+  10. Are you comfortable with doing the necessary tests at home instead of going somewhere for them?  [Other]: ''
+  ? 10. Are you comfortable with doing the necessary tests at home instead of going
+    somewhere for them?  [Saliva (DNA test, hormones)]
+  : Ok to perform self-test
+  ? 10. Are you comfortable with doing the necessary tests at home instead of going
+    somewhere for them?  [Skin swab (Microbiome assessment)]
+  : Ok to perform self-test
+  ? 10. Are you comfortable with doing the necessary tests at home instead of going
+    somewhere for them?  [Urine (nutrient needs, sensitivities)]
+  : Ok to perform self-test
+  11. What is the value to you for doing home test? (select all that apply): It saves
+    time
+  12. Which targets of your personalized diet would you value most?: Clear everyday
+    plan easy to follow
+  13. Please estimate your monthly spending on health (health insurance, doctors, medical tests, nutritionists, supplements, etc).: less
+    than 500 USD
+  '14. What would be your comfortable monthly subscription price for such a dream app. ': Less
+    than 5 USD/month
+  15. Could you please share in what year you were born?: '1969'
+  16. In which country do you live ?: Italy
+  ? 17. Are you willing to share your ideas further? We would be delighted to give
+    you 3 months access to our app once it is ready.  Please leave us your email.
+  : ritaviotti@gmail.com
+  2. How have you been feeling in the last couple of weeks? What 5 symptoms below, if any, were your main discomfort?: Bloating,
+    Brain fog, Skin wrinkling, Dry skin, Decreased memory
+  ? 3. Whom have you been approaching so far to help you deal with those symptoms?
+    Were you satisfied? [I asked my friends or family ]
+  : ''
+  ? 3. Whom have you been approaching so far to help you deal with those symptoms?
+    Were you satisfied? [I consulted my General Practitioner]
+  : ''
+  ? 3. Whom have you been approaching so far to help you deal with those symptoms?
+    Were you satisfied? [I consulted my gynaecologist]
+  : ''
+  3. Whom have you been approaching so far to help you deal with those symptoms? Were you satisfied? [I consulted my naturopath]: ''
+  ? 3. Whom have you been approaching so far to help you deal with those symptoms?
+    Were you satisfied? [I don't have time for it now]
+  : ''
+  ? 3. Whom have you been approaching so far to help you deal with those symptoms?
+    Were you satisfied? [I informed myself on menopause]
+  : ''
+  3. Whom have you been approaching so far to help you deal with those symptoms? Were you satisfied? [I started regular sports]: I
+    was satisfied
+  3. Whom have you been approaching so far to help you deal with those symptoms? Were you satisfied? [I take food supplements]: ''
+  3. Whom have you been approaching so far to help you deal with those symptoms? Were you satisfied? [I work with a psychologist]: I
+    was satisfied
+  4. How do you mainly make decisions about your nutrition and food supplements? Please choose up to three.: I
+    consulted a nutritionist and have a personalized plan to follow
+  5. Did you know that the majority of menopause symptoms could be addressed and resolved with the help of nutrition?: Yes,
+    but I have not noticed this for myself yet
+  ? 6. We are developing an app to support women in their hormonal journey during
+    menopause. Would you be interested in having such an app?
+  : Yes
+  7. Imagine you got such an app of your dreams. What would it absolutely contain? Check all that apply.: General
+    recommendations on how to address symptoms of menopause with the help of nutrition,
+    Connection with people who are at the same stage in their lives or have just been
+    through it, Network of certified trusted nutritionists for online consultation
+  7. Why would you not be interested?: ''
+  8. Imagine you get your dream application. What would it absolutely contain? Check all that apply.: ''
+  8a. Do you enjoy its look and feel?: Not really, would see room for improvement
+  8b. Do you have any recommendations for us to improve the app?: ''
+  9. What are your preferred ways to monitor your health indicators?: Health App tracker
+    on i-phone (or alike)
+  'Thank you so much for your time! ': My pleasure
+  Timestamp: 04/07/2022 15:30:42
+- ? '1. Health is one of the important components of everyone''s life. Depending on
+    the stage of life, health goals can vary significantly. What are your main health
+    aspirations these days? '
+  : Support myself in an ongoing transformation journey, Prepare myself for the upcoming
+    health challenge
+  10. Are you comfortable with doing the necessary tests at home instead of going somewhere for them?  [Other]: Ok
+    to perform self-test
+  ? 10. Are you comfortable with doing the necessary tests at home instead of going
+    somewhere for them?  [Saliva (DNA test, hormones)]
+  : Ok to perform self-test
+  ? 10. Are you comfortable with doing the necessary tests at home instead of going
+    somewhere for them?  [Skin swab (Microbiome assessment)]
+  : Ok to perform self-test
+  ? 10. Are you comfortable with doing the necessary tests at home instead of going
+    somewhere for them?  [Urine (nutrient needs, sensitivities)]
+  : Ok to perform self-test
+  11. What is the value to you for doing home test? (select all that apply): It saves
+    time, It is private
+  12. Which targets of your personalized diet would you value most?: Clear everyday
+    plan easy to follow, Preventive plan, Focus on optimal weight
+  13. Please estimate your monthly spending on health (health insurance, doctors, medical tests, nutritionists, supplements, etc).: less
+    than 500 USD
+  '14. What would be your comfortable monthly subscription price for such a dream app. ': 10-15
+    USD/month
+  15. Could you please share in what year you were born?: '1964'
+  16. In which country do you live ?: Italy
+  ? 17. Are you willing to share your ideas further? We would be delighted to give
+    you 3 months access to our app once it is ready.  Please leave us your email.
+  : 'marinacappelletti5364@gmail.com '
+  2. How have you been feeling in the last couple of weeks? What 5 symptoms below, if any, were your main discomfort?: Hot
+    flashes, Depression, Sleep difficulties, Weight gain, Age spots, melasma, Vaginal
+    dryness
+  ? 3. Whom have you been approaching so far to help you deal with those symptoms?
+    Were you satisfied? [I asked my friends or family ]
+  : ''
+  ? 3. Whom have you been approaching so far to help you deal with those symptoms?
+    Were you satisfied? [I consulted my General Practitioner]
+  : ''
+  ? 3. Whom have you been approaching so far to help you deal with those symptoms?
+    Were you satisfied? [I consulted my gynaecologist]
+  : ''
+  3. Whom have you been approaching so far to help you deal with those symptoms? Were you satisfied? [I consulted my naturopath]: ''
+  ? 3. Whom have you been approaching so far to help you deal with those symptoms?
+    Were you satisfied? [I don't have time for it now]
+  : I was not satisfied
+  ? 3. Whom have you been approaching so far to help you deal with those symptoms?
+    Were you satisfied? [I informed myself on menopause]
+  : ''
+  3. Whom have you been approaching so far to help you deal with those symptoms? Were you satisfied? [I started regular sports]: ''
+  3. Whom have you been approaching so far to help you deal with those symptoms? Were you satisfied? [I take food supplements]: ''
+  3. Whom have you been approaching so far to help you deal with those symptoms? Were you satisfied? [I work with a psychologist]: ''
+  4. How do you mainly make decisions about your nutrition and food supplements? Please choose up to three.: I
+    am aware of general healthy ways and try to stick to them
+  5. Did you know that the majority of menopause symptoms could be addressed and resolved with the help of nutrition?: I
+    don't know, I need to read more about it
+  ? 6. We are developing an app to support women in their hormonal journey during
+    menopause. Would you be interested in having such an app?
+  : Yes
+  7. Imagine you got such an app of your dreams. What would it absolutely contain? Check all that apply.: General
+    recommendations on how to address symptoms of menopause with the help of nutrition,
+    Connection with people who are at the same stage in their lives or have just been
+    through it, Personalized recommendations without going to any specialists, Network
+    of certified trusted nutritionists for online consultation
+  7. Why would you not be interested?: ''
+  8. Imagine you get your dream application. What would it absolutely contain? Check all that apply.: ''
+  8a. Do you enjoy its look and feel?: Overall, yes. It is nice
+  8b. Do you have any recommendations for us to improve the app?: ''
+  9. What are your preferred ways to monitor your health indicators?: Health App tracker
+    on i-phone (or alike)
+  'Thank you so much for your time! ': 'You''re welcome! Thanks for helping me '
+  Timestamp: 04/07/2022 17:57:04
+- ? '1. Health is one of the important components of everyone''s life. Depending on
+    the stage of life, health goals can vary significantly. What are your main health
+    aspirations these days? '
+  : Get myself out of a significant health issue
+  10. Are you comfortable with doing the necessary tests at home instead of going somewhere for them?  [Other]: ''
+  ? 10. Are you comfortable with doing the necessary tests at home instead of going
+    somewhere for them?  [Saliva (DNA test, hormones)]
+  : not comfortable
+  ? 10. Are you comfortable with doing the necessary tests at home instead of going
+    somewhere for them?  [Skin swab (Microbiome assessment)]
+  : ''
+  ? 10. Are you comfortable with doing the necessary tests at home instead of going
+    somewhere for them?  [Urine (nutrient needs, sensitivities)]
+  : not comfortable
+  11. What is the value to you for doing home test? (select all that apply): It saves
+    time
+  12. Which targets of your personalized diet would you value most?: Clear everyday
+    plan easy to follow
+  13. Please estimate your monthly spending on health (health insurance, doctors, medical tests, nutritionists, supplements, etc).: less
+    than 500 USD
+  '14. What would be your comfortable monthly subscription price for such a dream app. ': ''
+  15. Could you please share in what year you were born?: '1970'
+  16. In which country do you live ?: Italy
+  ? 17. Are you willing to share your ideas further? We would be delighted to give
+    you 3 months access to our app once it is ready.  Please leave us your email.
+  : ''
+  2. How have you been feeling in the last couple of weeks? What 5 symptoms below, if any, were your main discomfort?: Night
+    sweats, Headaches, Brain fog, Low energy, fatigue, Bladder pain, frequent urination,
+    Loss of skin elasticity, sagging skin, Vaginal dryness
+  ? 3. Whom have you been approaching so far to help you deal with those symptoms?
+    Were you satisfied? [I asked my friends or family ]
+  : I was satisfied
+  ? 3. Whom have you been approaching so far to help you deal with those symptoms?
+    Were you satisfied? [I consulted my General Practitioner]
+  : I was satisfied
+  ? 3. Whom have you been approaching so far to help you deal with those symptoms?
+    Were you satisfied? [I consulted my gynaecologist]
+  : I was satisfied
+  3. Whom have you been approaching so far to help you deal with those symptoms? Were you satisfied? [I consulted my naturopath]: ''
+  ? 3. Whom have you been approaching so far to help you deal with those symptoms?
+    Were you satisfied? [I don't have time for it now]
+  : ''
+  ? 3. Whom have you been approaching so far to help you deal with those symptoms?
+    Were you satisfied? [I informed myself on menopause]
+  : I was satisfied
+  3. Whom have you been approaching so far to help you deal with those symptoms? Were you satisfied? [I started regular sports]: ''
+  3. Whom have you been approaching so far to help you deal with those symptoms? Were you satisfied? [I take food supplements]: ''
+  3. Whom have you been approaching so far to help you deal with those symptoms? Were you satisfied? [I work with a psychologist]: ''
+  4. How do you mainly make decisions about your nutrition and food supplements? Please choose up to three.: I
+    consulted a nutritionist and have a personalized plan to follow
+  5. Did you know that the majority of menopause symptoms could be addressed and resolved with the help of nutrition?: Yes,
+    I have felt the effect on myself
+  ? 6. We are developing an app to support women in their hormonal journey during
+    menopause. Would you be interested in having such an app?
+  : Not sure, I would like to learn more.
+  7. Imagine you got such an app of your dreams. What would it absolutely contain? Check all that apply.: General
+    recommendations on how to address symptoms of menopause with the help of nutrition,
+    Connection with people who are at the same stage in their lives or have just been
+    through it, Personalized recommendations without going to any specialists, Network
+    of certified trusted nutritionists for online consultation
+  7. Why would you not be interested?: ''
+  8. Imagine you get your dream application. What would it absolutely contain? Check all that apply.: ''
+  8a. Do you enjoy its look and feel?: Overall, yes. It is nice
+  8b. Do you have any recommendations for us to improve the app?: ''
+  9. What are your preferred ways to monitor your health indicators?: I don't like
+    self-monitoring, prefer to go to a doctor
+  'Thank you so much for your time! ': ''
+  Timestamp: 04/07/2022 21:45:18
