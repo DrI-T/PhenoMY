@@ -25,6 +25,7 @@ A023: 04/06/2022 14:30:55
 A024: 04/06/2022 16:25:58
 A025: 04/06/2022 23:19:38
 A026: 04/07/2022 11:57:34
+A027: 04/12/2022 10:55:24
 B001: Prepare myself for the upcoming health challenge, I believe it defines your
   quality of life at later stage
 B002: Prepare myself for the upcoming health challenge
@@ -57,6 +58,7 @@ B024: Support myself in an ongoing transformation journey
 B025: Support myself in an ongoing transformation journey, Prepare myself for the
   upcoming health challenge
 B026: Prepare myself for the upcoming health challenge
+B027: ''
 BA001: Clear everyday plan easy to follow, Fast results addressing current issues,
   Preventive plan, Advice on healthy recipes, really tuned to address my symptoms
 BA002: Advice on healthy recipes, Genetic testing
@@ -89,6 +91,7 @@ BA023: Preventive plan
 BA024: Fast results addressing current issues
 BA025: Clear everyday plan easy to follow, Preventive plan
 BA026: Clear everyday plan easy to follow, Preventive plan, Focus on optimal weight
+BA027: ''
 BB001: less than 500 USD
 BB002: Over 1000 USD
 BB003: less than 500 USD
@@ -115,6 +118,7 @@ BB023: 750 USD - 1000 USD
 BB024: less than 500 USD
 BB025: 500 USD - 750 USD
 BB026: less than 500 USD
+BB027: ''
 BC001: 5-10 USD/month
 BC002: ''
 BC003: Less than 5 USD/month
@@ -141,6 +145,7 @@ BC023: 5-10 USD/month
 BC024: Less than 5 USD/month
 BC025: ''
 BC026: Less than 5 USD/month
+BC027: ''
 BD001: '1969'
 BD002: '1900'
 BD003: '1973'
@@ -167,6 +172,7 @@ BD023: '1969'
 BD024: '1976'
 BD025: '1979'
 BD026: '1958'
+BD027: ''
 BE001: michel@binkmail.com
 BE002: colleen.fogarty.draper@gmail.com
 BE003: ''
@@ -193,6 +199,7 @@ BE023: ''
 BE024: ''
 BE025: ''
 BE026: jan.hardie@libero.it
+BE027: michelc@drit.ml
 BF001: You're welcomed
 BF002: Bye
 BF003: ''
@@ -220,6 +227,7 @@ BF023: ''
 BF024: ''
 BF025: ''
 BF026: ''
+BF027: ''
 BG001: ''
 BG002: ''
 BG003: '0'
@@ -246,6 +254,7 @@ BG023: '0'
 BG024: '0'
 BG025: '0'
 BG026: '0'
+BG027: '0'
 BH001: ''
 BH002: ''
 BH003: ''
@@ -272,6 +281,7 @@ BH023: switzerland
 BH024: switzerland
 BH025: Switzerland
 BH026: Italy
+BH027: Switzerland
 BI001: ''
 BI002: ''
 BI003: ''
@@ -298,6 +308,304 @@ BI023: ''
 BI024: ''
 BI025: ''
 BI026: ''
+BI027: ''
+BJ001: ''
+BJ002: ''
+BJ003: ''
+BJ004: ''
+BJ005: ''
+BJ006: ''
+BJ007: ''
+BJ008: ''
+BJ009: ''
+BJ010: ''
+BJ011: ''
+BJ012: ''
+BJ013: ''
+BJ014: ''
+BJ015: ''
+BJ016: ''
+BJ017: ''
+BJ018: ''
+BJ019: ''
+BJ020: ''
+BJ021: ''
+BJ022: ''
+BJ023: ''
+BJ024: ''
+BJ025: ''
+BJ026: ''
+BJ027: ''
+BK001: ''
+BK002: ''
+BK003: ''
+BK004: ''
+BK005: ''
+BK006: ''
+BK007: ''
+BK008: ''
+BK009: ''
+BK010: ''
+BK011: ''
+BK012: ''
+BK013: ''
+BK014: ''
+BK015: ''
+BK016: ''
+BK017: ''
+BK018: ''
+BK019: ''
+BK020: ''
+BK021: ''
+BK022: ''
+BK023: ''
+BK024: ''
+BK025: ''
+BK026: ''
+BK027: ''
+BL001: ''
+BL002: ''
+BL003: ''
+BL004: ''
+BL005: ''
+BL006: ''
+BL007: ''
+BL008: ''
+BL009: ''
+BL010: ''
+BL011: ''
+BL012: ''
+BL013: ''
+BL014: ''
+BL015: ''
+BL016: ''
+BL017: ''
+BL018: ''
+BL019: ''
+BL020: ''
+BL021: ''
+BL022: ''
+BL023: ''
+BL024: ''
+BL025: ''
+BL026: ''
+BL027: ''
+BM001: ''
+BM002: ''
+BM003: ''
+BM004: ''
+BM005: ''
+BM006: ''
+BM007: ''
+BM008: ''
+BM009: ''
+BM010: ''
+BM011: ''
+BM012: ''
+BM013: ''
+BM014: ''
+BM015: ''
+BM016: ''
+BM017: ''
+BM018: ''
+BM019: ''
+BM020: ''
+BM021: ''
+BM022: ''
+BM023: ''
+BM024: ''
+BM025: ''
+BM026: ''
+BM027: ''
+BN001: ''
+BN002: ''
+BN003: ''
+BN004: ''
+BN005: ''
+BN006: ''
+BN007: ''
+BN008: ''
+BN009: ''
+BN010: ''
+BN011: ''
+BN012: ''
+BN013: ''
+BN014: ''
+BN015: ''
+BN016: ''
+BN017: ''
+BN018: ''
+BN019: ''
+BN020: ''
+BN021: ''
+BN022: ''
+BN023: ''
+BN024: ''
+BN025: ''
+BN026: ''
+BN027: ''
+BO001: ''
+BO002: ''
+BO003: ''
+BO004: ''
+BO005: ''
+BO006: ''
+BO007: ''
+BO008: ''
+BO009: ''
+BO010: ''
+BO011: ''
+BO012: ''
+BO013: ''
+BO014: ''
+BO015: ''
+BO016: ''
+BO017: ''
+BO018: ''
+BO019: ''
+BO020: ''
+BO021: ''
+BO022: ''
+BO023: ''
+BO024: ''
+BO025: ''
+BO026: ''
+BO027: ''
+BP001: ''
+BP002: ''
+BP003: ''
+BP004: ''
+BP005: ''
+BP006: ''
+BP007: ''
+BP008: ''
+BP009: ''
+BP010: ''
+BP011: ''
+BP012: ''
+BP013: ''
+BP014: ''
+BP015: ''
+BP016: ''
+BP017: ''
+BP018: ''
+BP019: ''
+BP020: ''
+BP021: ''
+BP022: ''
+BP023: ''
+BP024: ''
+BP025: ''
+BP026: ''
+BP027: ''
+BQ001: ''
+BQ002: ''
+BQ003: ''
+BQ004: ''
+BQ005: ''
+BQ006: ''
+BQ007: ''
+BQ008: ''
+BQ009: ''
+BQ010: ''
+BQ011: ''
+BQ012: ''
+BQ013: ''
+BQ014: ''
+BQ015: ''
+BQ016: ''
+BQ017: ''
+BQ018: ''
+BQ019: ''
+BQ020: ''
+BQ021: ''
+BQ022: ''
+BQ023: ''
+BQ024: ''
+BQ025: ''
+BQ026: ''
+BQ027: ''
+BR001: ''
+BR002: ''
+BR003: ''
+BR004: ''
+BR005: ''
+BR006: ''
+BR007: ''
+BR008: ''
+BR009: ''
+BR010: ''
+BR011: ''
+BR012: ''
+BR013: ''
+BR014: ''
+BR015: ''
+BR016: ''
+BR017: ''
+BR018: ''
+BR019: ''
+BR020: ''
+BR021: ''
+BR022: ''
+BR023: ''
+BR024: ''
+BR025: ''
+BR026: ''
+BR027: ''
+BS001: ''
+BS002: ''
+BS003: ''
+BS004: ''
+BS005: ''
+BS006: ''
+BS007: ''
+BS008: ''
+BS009: ''
+BS010: ''
+BS011: ''
+BS012: ''
+BS013: ''
+BS014: ''
+BS015: ''
+BS016: ''
+BS017: ''
+BS018: ''
+BS019: ''
+BS020: ''
+BS021: ''
+BS022: ''
+BS023: ''
+BS024: ''
+BS025: ''
+BS026: ''
+BS027: ''
+BT001: ''
+BT002: ''
+BT003: ''
+BT004: ''
+BT005: ''
+BT006: ''
+BT007: ''
+BT008: ''
+BT009: ''
+BT010: ''
+BT011: ''
+BT012: ''
+BT013: ''
+BT014: ''
+BT015: ''
+BT016: ''
+BT017: ''
+BT018: ''
+BT019: ''
+BT020: ''
+BT021: ''
+BT022: ''
+BT023: ''
+BT024: ''
+BT025: ''
+BT026: ''
+BT027: ''
 C001: Bladder pain, frequent urination
 C002: ''
 C003: Night sweats, Sleep difficulties, Low energy, fatigue
@@ -335,6 +643,7 @@ C024: Skin wrinkling, Age spots, melasma, Dry skin
 C025: Menstrual cramps, Mood swings, Headaches, Weight gain, Hair loss, thinning,
   change in texture
 C026: Joint pain, Hair loss, thinning, change in texture
+C027: ''
 D001: I was satisfied
 D002: ''
 D003: ''
@@ -361,6 +670,7 @@ D023: I was not satisfied
 D024: I was satisfied
 D025: ''
 D026: I was satisfied
+D027: ''
 E001: ''
 E002: ''
 E003: ''
@@ -387,6 +697,7 @@ E023: ''
 E024: ''
 E025: ''
 E026: I was satisfied
+E027: ''
 F001: ''
 F002: ''
 F003: ''
@@ -413,6 +724,7 @@ F023: ''
 F024: ''
 F025: ''
 F026: ''
+F027: ''
 G001: ''
 G002: ''
 G003: ''
@@ -439,6 +751,7 @@ G023: I was satisfied, I was not satisfied
 G024: ''
 G025: ''
 G026: ''
+G027: ''
 H001: ''
 H002: ''
 H003: ''
@@ -465,6 +778,7 @@ H023: ''
 H024: ''
 H025: ''
 H026: ''
+H027: ''
 I001: ''
 I002: ''
 I003: ''
@@ -491,6 +805,7 @@ I023: ''
 I024: ''
 I025: ''
 I026: ''
+I027: ''
 J001: ''
 J002: ''
 J003: ''
@@ -517,6 +832,7 @@ J023: ''
 J024: ''
 J025: ''
 J026: ''
+J027: ''
 K001: ''
 K002: ''
 K003: I was satisfied
@@ -543,6 +859,7 @@ K023: ''
 K024: ''
 K025: ''
 K026: I was satisfied
+K027: ''
 L001: I was not satisfied
 L002: ''
 L003: ''
@@ -569,6 +886,7 @@ L023: ''
 L024: ''
 L025: I was not satisfied
 L026: ''
+L027: ''
 M001: ask grand ma
 M002: ''
 M003: I only listen to my body and follow its needs, I am aware of general healthy
@@ -601,6 +919,7 @@ M023: I consulted a nutritionist and have a personalized plan to follow
 M024: I only listen to my body and follow its needs
 M025: I am aware of general healthy ways and try to stick to them
 M026: I am aware of general healthy ways and try to stick to them
+M027: ''
 N001: Yes, but I have not noticed this for myself yet
 N002: ''
 N003: Yes, I have felt the effect on myself
@@ -627,6 +946,7 @@ N023: I don't know, I need to read more about it
 N024: Yes, but I have not noticed this for myself yet
 N025: I don't know, I need to read more about it
 N026: I don't know, I need to read more about it
+N027: ''
 O001: Not sure, I would like to learn more.
 O002: Not sure, I would like to learn more.
 O003: Yes
@@ -653,6 +973,7 @@ O023: Yes
 O024: Not sure, I would like to learn more.
 O025: Not sure, I would like to learn more.
 O026: Yes
+O027: Not sure, I would like to learn more.
 P001: General recommendations on how to address symptoms of menopause with the help
   of nutrition, Connection with people who are at the same stage in their lives or
   have just been through it, Personalized recommendations without going to any specialists,
@@ -720,6 +1041,7 @@ P025: General recommendations on how to address symptoms of menopause with the h
 P026: General recommendations on how to address symptoms of menopause with the help
   of nutrition, Personalized recommendations without going to any specialists, Network
   of certified trusted nutritionists for online consultation
+P027: ''
 Q001: ''
 Q002: ''
 Q003: ''
@@ -746,6 +1068,7 @@ Q023: ''
 Q024: ''
 Q025: ''
 Q026: ''
+Q027: ''
 R001: ''
 R002: ''
 R003: ''
@@ -772,6 +1095,7 @@ R023: ''
 R024: ''
 R025: ''
 R026: ''
+R027: ''
 S001: ''
 S002: ''
 S003: ''
@@ -799,6 +1123,7 @@ S023: ''
 S024: ''
 S025: ''
 S026: ''
+S027: ''
 T001: ''
 T002: ''
 T003: ''
@@ -825,6 +1150,7 @@ T023: ''
 T024: ''
 T025: ''
 T026: ''
+T027: ''
 U001: I don't own wearable
 U002: Apple watch (or alike)
 U003: Apple watch (or alike)
@@ -851,6 +1177,7 @@ U023: I don't like self-monitoring, prefer to go to a doctor
 U024: Listen to my body
 U025: Health App tracker on i-phone (or alike)
 U026: Apple watch (or alike)
+U027: ''
 V001: Ok to perform self-test
 V002: ''
 V003: Ok to perform self-test
@@ -877,6 +1204,7 @@ V023: Ok to perform self-test
 V024: Ok to perform self-test
 V025: Ok to perform self-test
 V026: Ok to perform self-test
+V027: ''
 W001: Ok to perform self-test
 W002: ''
 W003: Ok to perform self-test
@@ -903,6 +1231,7 @@ W023: Ok to perform self-test
 W024: Ok to perform self-test
 W025: Ok to perform self-test
 W026: Ok to perform self-test
+W027: ''
 X001: Ok to perform self-test
 X002: ''
 X003: Ok to perform self-test
@@ -929,6 +1258,7 @@ X023: Ok to perform self-test
 X024: Ok to perform self-test
 X025: Ok to perform self-test
 X026: Ok to perform self-test
+X027: ''
 Y001: Ok to perform self-test
 Y002: Ok to perform self-test
 Y003: ''
@@ -955,6 +1285,7 @@ Y023: ''
 Y024: ''
 Y025: ''
 Y026: ''
+Y027: ''
 Z001: It is private, it's fun to learn
 Z002: It is private
 Z003: It saves time
@@ -981,3 +1312,4 @@ Z023: 'there is no value unless is linked to an application. '
 Z024: It saves time
 Z025: It saves time
 Z026: It saves time
+Z027: ''
