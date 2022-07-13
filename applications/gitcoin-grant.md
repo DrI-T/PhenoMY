@@ -9,4 +9,15 @@ Our project addresses anonymization of data, public encryption, multi party comp
 Women make 80% of the health decisions in their families. Our platform has a large potential public impact, while allowing an easier adoption of our solution due to a smaller addressable space.
 
 
-website: <https://www.phenomx.me>
+- website: <https://www.phenomx.me>
+- grant link: https://gitcoin.co/grants/5277/phenomx-health
+
+<!-- vim: wrap
+-->
+
+
+<!-- appeal process
+https://support.gitcoin.co/gitcoin-policy/policy/appeals/appeal-process-stage-1?q=appel
+
+1. https://forms.gle/t1yfwZYfBNJBshxT7
+-->
