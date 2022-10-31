@@ -1,0 +1,91 @@
+Invoice 1619680980
+
+Apr 30, 2021
+May 14, 2021
+Jan 01 - Apr 30, 2021
+website for phenomX
+
+Issue date:
+Due date:
+Date range:
+Message:
+
+Issued by:
+
+Billed to:
+
+Doctor IT
+michelc@drit.ml
+
+PhenomX Health
+dr.draper@phenomx.ch
+
+Details:
+Project /
+activities
+
+Member
+
+manually
+added
+
+total hours
+
+hourly rate
+
+amount
+
+PhenomX
+
+Michel Combes
+
+0%
+
+07:10:15
+
+CHF80.00
+
+CHF573.67
+
+modified intro, and removed
+paragraph indents
+
+00:05:54
+
+CHF7.87
+
+http://phenomx.ml
+
+02:44:53
+
+CHF219.84
+
+deploy website to netlify
+
+03:51:49
+
+CHF309.09
+
+devops
+
+00:27:39
+
+CHF36.87
+
+Activity total
+
+CHF573.67
+
+Subtotal
+Discount
+Taxes
+Amount due
+
+CHF573.67
+CHF223.67
+0.0%
+CHF350.00
+
+1/1
+
+
