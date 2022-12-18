@@ -51,7 +51,7 @@
     "publishEditFolder": false,
     "cssOptimize": true,
     "favicon": false,
-    "mbrsiteDomain": "rrts3swirm",
+    "mbrsiteDomain": "ugnp1dbded",
     "lazyLoad": false,
     "robotsSwitcher": false,
     "sitemapSwitcher": false,
@@ -69,7 +69,10 @@
     "versionPublish": "5.7.3",
     "screenshot": "screenshot.png",
     "PWA": {
-      "enabled": false
+      "enabled": true,
+      "name": "",
+      "icon": "@PROJECT_PATH@/assets/images/phy-logo-4-512x512.png",
+      "themeColor": "#9f7813"
     }
   },
   "pages": {
