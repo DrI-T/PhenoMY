@@ -1,0 +1,22 @@
+cost to replace
+
+- Colleen: 4160h
+- Michel: 1970h
+- Jerome:
+- Assets:
+	- graphics,logo,website,app,
+	- experience:
+		- colleen: $748800
+		- michel: $499200
+		- jerome:
+- Hardware: 2 HDD + nuc
+- IPs:
+	- symptoms nutrition datablase
+	- method for personalization at scale
+	- named wallet,
+	- self-shared secret,
+	- colliding mutable,
+	- executable token,
+	- substractive classifier,
+	- rekeyable keys,
+	- capability base access
